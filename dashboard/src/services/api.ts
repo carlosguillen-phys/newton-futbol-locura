@@ -14,7 +14,7 @@ import { LAYERS } from '../lib/layers'
 import { buildMockResponse, getMockFilters } from '../mocks/mockEngine'
 
 /** Con true no se hace ninguna petición de red (Req. 1.6). */
-export const USE_MOCK = true
+export const USE_MOCK = false
 
 export const HEATMAP_TIMEOUT_MS = 10_000
 export const FILTERS_TIMEOUT_MS = 5_000
