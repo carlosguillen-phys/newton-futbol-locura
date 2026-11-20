@@ -21,3 +21,10 @@ node_modules/
 __pycache__/
 .env
 *.zip
+data/*.csv
+data/processed/
+.venv/
+node_modules/
+__pycache__/
+.env
+*.zip
