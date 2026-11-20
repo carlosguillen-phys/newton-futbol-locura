@@ -1,0 +1,8516 @@
+{
+ "filters": {
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LAC",
+   "LAR",
+   "LV",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SEA",
+   "SF",
+   "TB",
+   "TEN",
+   "WAS"
+  ]
+ },
+ "layers": {
+  "targets": {
+   "meta": {
+    "total_plays": 5411,
+    "avg_yards": 6.0,
+    "completion_pct": 60.0,
+    "sack_rate": 5.0,
+    "avg_time_to_throw": 2.4
+   },
+   "grid": [
+    {
+     "x_bin": 0,
+     "y_bin": 0.0,
+     "intensity": 0.281,
+     "plays_count": 19,
+     "success_rate": 0.471,
+     "avg_epa_or_yards": 0.14
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 5.33,
+     "intensity": 0.297,
+     "plays_count": 22,
+     "success_rate": 0.439,
+     "avg_epa_or_yards": 0.2
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 10.66,
+     "intensity": 0.401,
+     "plays_count": 25,
+     "success_rate": 0.5,
+     "avg_epa_or_yards": 0.32
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 15.99,
+     "intensity": 0.481,
+     "plays_count": 30,
+     "success_rate": 0.524,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 21.32,
+     "intensity": 0.575,
+     "plays_count": 35,
+     "success_rate": 0.576,
+     "avg_epa_or_yards": 0.59
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 26.65,
+     "intensity": 0.57,
+     "plays_count": 38,
+     "success_rate": 0.535,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 31.98,
+     "intensity": 0.534,
+     "plays_count": 33,
+     "success_rate": 0.607,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 37.31,
+     "intensity": 0.386,
+     "plays_count": 27,
+     "success_rate": 0.491,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 42.64,
+     "intensity": 0.328,
+     "plays_count": 23,
+     "success_rate": 0.502,
+     "avg_epa_or_yards": 0.22
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 47.97,
+     "intensity": 0.232,
+     "plays_count": 18,
+     "success_rate": 0.458,
+     "avg_epa_or_yards": -0.02
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 0.0,
+     "intensity": 0.348,
+     "plays_count": 24,
+     "success_rate": 0.469,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 5.33,
+     "intensity": 0.461,
+     "plays_count": 31,
+     "success_rate": 0.498,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 10.66,
+     "intensity": 0.539,
+     "plays_count": 33,
+     "success_rate": 0.571,
+     "avg_epa_or_yards": 0.4
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 15.99,
+     "intensity": 0.668,
+     "plays_count": 42,
+     "success_rate": 0.639,
+     "avg_epa_or_yards": 0.54
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 21.32,
+     "intensity": 0.777,
+     "plays_count": 49,
+     "success_rate": 0.637,
+     "avg_epa_or_yards": 0.73
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 26.65,
+     "intensity": 0.768,
+     "plays_count": 50,
+     "success_rate": 0.692,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 31.98,
+     "intensity": 0.67,
+     "plays_count": 42,
+     "success_rate": 0.595,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 37.31,
+     "intensity": 0.584,
+     "plays_count": 38,
+     "success_rate": 0.597,
+     "avg_epa_or_yards": 0.45
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 42.64,
+     "intensity": 0.485,
+     "plays_count": 32,
+     "success_rate": 0.549,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 47.97,
+     "intensity": 0.331,
+     "plays_count": 20,
+     "success_rate": 0.44,
+     "avg_epa_or_yards": 0.27
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 0.0,
+     "intensity": 0.474,
+     "plays_count": 32,
+     "success_rate": 0.544,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 5.33,
+     "intensity": 0.573,
+     "plays_count": 37,
+     "success_rate": 0.544,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 10.66,
+     "intensity": 0.685,
+     "plays_count": 42,
+     "success_rate": 0.664,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 15.99,
+     "intensity": 0.81,
+     "plays_count": 52,
+     "success_rate": 0.714,
+     "avg_epa_or_yards": 0.71
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 21.32,
+     "intensity": 0.963,
+     "plays_count": 59,
+     "success_rate": 0.695,
+     "avg_epa_or_yards": 1.01
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 26.65,
+     "intensity": 0.913,
+     "plays_count": 58,
+     "success_rate": 0.706,
+     "avg_epa_or_yards": 0.92
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 31.98,
+     "intensity": 0.805,
+     "plays_count": 49,
+     "success_rate": 0.715,
+     "avg_epa_or_yards": 0.84
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 37.31,
+     "intensity": 0.666,
+     "plays_count": 44,
+     "success_rate": 0.647,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 42.64,
+     "intensity": 0.585,
+     "plays_count": 35,
+     "success_rate": 0.608,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 47.97,
+     "intensity": 0.457,
+     "plays_count": 31,
+     "success_rate": 0.563,
+     "avg_epa_or_yards": 0.42
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 0.0,
+     "intensity": 0.503,
+     "plays_count": 33,
+     "success_rate": 0.528,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 5.33,
+     "intensity": 0.612,
+     "plays_count": 37,
+     "success_rate": 0.632,
+     "avg_epa_or_yards": 0.61
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 10.66,
+     "intensity": 0.747,
+     "plays_count": 46,
+     "success_rate": 0.681,
+     "avg_epa_or_yards": 0.69
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 15.99,
+     "intensity": 0.931,
+     "plays_count": 57,
+     "success_rate": 0.752,
+     "avg_epa_or_yards": 0.86
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 21.32,
+     "intensity": 0.977,
+     "plays_count": 59,
+     "success_rate": 0.71,
+     "avg_epa_or_yards": 0.94
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 26.65,
+     "intensity": 0.991,
+     "plays_count": 63,
+     "success_rate": 0.793,
+     "avg_epa_or_yards": 0.95
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 31.98,
+     "intensity": 0.919,
+     "plays_count": 58,
+     "success_rate": 0.708,
+     "avg_epa_or_yards": 1.0
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 37.31,
+     "intensity": 0.754,
+     "plays_count": 47,
+     "success_rate": 0.695,
+     "avg_epa_or_yards": 0.63
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 42.64,
+     "intensity": 0.623,
+     "plays_count": 41,
+     "success_rate": 0.567,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 47.97,
+     "intensity": 0.485,
+     "plays_count": 30,
+     "success_rate": 0.505,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 0.0,
+     "intensity": 0.465,
+     "plays_count": 31,
+     "success_rate": 0.518,
+     "avg_epa_or_yards": 0.38
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 5.33,
+     "intensity": 0.521,
+     "plays_count": 33,
+     "success_rate": 0.547,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 10.66,
+     "intensity": 0.676,
+     "plays_count": 42,
+     "success_rate": 0.641,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 15.99,
+     "intensity": 0.821,
+     "plays_count": 53,
+     "success_rate": 0.682,
+     "avg_epa_or_yards": 0.83
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 21.32,
+     "intensity": 0.893,
+     "plays_count": 57,
+     "success_rate": 0.724,
+     "avg_epa_or_yards": 0.84
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 26.65,
+     "intensity": 0.905,
+     "plays_count": 55,
+     "success_rate": 0.728,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 31.98,
+     "intensity": 0.806,
+     "plays_count": 50,
+     "success_rate": 0.707,
+     "avg_epa_or_yards": 0.81
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 37.31,
+     "intensity": 0.681,
+     "plays_count": 42,
+     "success_rate": 0.603,
+     "avg_epa_or_yards": 0.6
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 42.64,
+     "intensity": 0.568,
+     "plays_count": 36,
+     "success_rate": 0.557,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 47.97,
+     "intensity": 0.438,
+     "plays_count": 28,
+     "success_rate": 0.569,
+     "avg_epa_or_yards": 0.36
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 0.0,
+     "intensity": 0.36,
+     "plays_count": 25,
+     "success_rate": 0.506,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 5.33,
+     "intensity": 0.437,
+     "plays_count": 28,
+     "success_rate": 0.475,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 10.66,
+     "intensity": 0.558,
+     "plays_count": 35,
+     "success_rate": 0.581,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 15.99,
+     "intensity": 0.727,
+     "plays_count": 45,
+     "success_rate": 0.635,
+     "avg_epa_or_yards": 0.61
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 21.32,
+     "intensity": 0.777,
+     "plays_count": 48,
+     "success_rate": 0.701,
+     "avg_epa_or_yards": 0.79
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 26.65,
+     "intensity": 0.774,
+     "plays_count": 47,
+     "success_rate": 0.618,
+     "avg_epa_or_yards": 0.73
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 31.98,
+     "intensity": 0.666,
+     "plays_count": 42,
+     "success_rate": 0.6,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 37.31,
+     "intensity": 0.595,
+     "plays_count": 39,
+     "success_rate": 0.605,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 42.64,
+     "intensity": 0.433,
+     "plays_count": 27,
+     "success_rate": 0.476,
+     "avg_epa_or_yards": 0.27
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 47.97,
+     "intensity": 0.361,
+     "plays_count": 24,
+     "success_rate": 0.529,
+     "avg_epa_or_yards": 0.15
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 0.0,
+     "intensity": 0.309,
+     "plays_count": 20,
+     "success_rate": 0.486,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 5.33,
+     "intensity": 0.346,
+     "plays_count": 24,
+     "success_rate": 0.488,
+     "avg_epa_or_yards": 0.16
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 10.66,
+     "intensity": 0.424,
+     "plays_count": 28,
+     "success_rate": 0.47,
+     "avg_epa_or_yards": 0.36
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 15.99,
+     "intensity": 0.518,
+     "plays_count": 34,
+     "success_rate": 0.518,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 21.32,
+     "intensity": 0.583,
+     "plays_count": 36,
+     "success_rate": 0.629,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 26.65,
+     "intensity": 0.578,
+     "plays_count": 35,
+     "success_rate": 0.556,
+     "avg_epa_or_yards": 0.56
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 31.98,
+     "intensity": 0.481,
+     "plays_count": 31,
+     "success_rate": 0.573,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 37.31,
+     "intensity": 0.382,
+     "plays_count": 27,
+     "success_rate": 0.512,
+     "avg_epa_or_yards": 0.35
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 42.64,
+     "intensity": 0.32,
+     "plays_count": 23,
+     "success_rate": 0.489,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 47.97,
+     "intensity": 0.251,
+     "plays_count": 17,
+     "success_rate": 0.483,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 0.0,
+     "intensity": 0.149,
+     "plays_count": 13,
+     "success_rate": 0.434,
+     "avg_epa_or_yards": -0.03
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 5.33,
+     "intensity": 0.25,
+     "plays_count": 16,
+     "success_rate": 0.425,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 10.66,
+     "intensity": 0.298,
+     "plays_count": 21,
+     "success_rate": 0.471,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 15.99,
+     "intensity": 0.307,
+     "plays_count": 20,
+     "success_rate": 0.431,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 21.32,
+     "intensity": 0.368,
+     "plays_count": 23,
+     "success_rate": 0.479,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 26.65,
+     "intensity": 0.347,
+     "plays_count": 21,
+     "success_rate": 0.462,
+     "avg_epa_or_yards": 0.26
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 31.98,
+     "intensity": 0.355,
+     "plays_count": 24,
+     "success_rate": 0.448,
+     "avg_epa_or_yards": 0.21
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 37.31,
+     "intensity": 0.265,
+     "plays_count": 18,
+     "success_rate": 0.448,
+     "avg_epa_or_yards": 0.06
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 42.64,
+     "intensity": 0.195,
+     "plays_count": 13,
+     "success_rate": 0.469,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 47.97,
+     "intensity": 0.152,
+     "plays_count": 12,
+     "success_rate": 0.447,
+     "avg_epa_or_yards": 0.04
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 0.0,
+     "intensity": 0.102,
+     "plays_count": 8,
+     "success_rate": 0.341,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 5.33,
+     "intensity": 0.102,
+     "plays_count": 9,
+     "success_rate": 0.426,
+     "avg_epa_or_yards": 0.01
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 10.66,
+     "intensity": 0.158,
+     "plays_count": 11,
+     "success_rate": 0.438,
+     "avg_epa_or_yards": -0.0
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 15.99,
+     "intensity": 0.213,
+     "plays_count": 15,
+     "success_rate": 0.407,
+     "avg_epa_or_yards": -0.0
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 21.32,
+     "intensity": 0.192,
+     "plays_count": 13,
+     "success_rate": 0.38,
+     "avg_epa_or_yards": -0.0
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 26.65,
+     "intensity": 0.178,
+     "plays_count": 13,
+     "success_rate": 0.412,
+     "avg_epa_or_yards": -0.05
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 31.98,
+     "intensity": 0.221,
+     "plays_count": 15,
+     "success_rate": 0.401,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 37.31,
+     "intensity": 0.152,
+     "plays_count": 9,
+     "success_rate": 0.4,
+     "avg_epa_or_yards": -0.0
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 42.64,
+     "intensity": 0.088,
+     "plays_count": 5,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 47.97,
+     "intensity": 0.061,
+     "plays_count": 6,
+     "success_rate": 0.329,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 0.0,
+     "intensity": 0.017,
+     "plays_count": 2,
+     "success_rate": 0.339,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 5.33,
+     "intensity": 0.07,
+     "plays_count": 6,
+     "success_rate": 0.403,
+     "avg_epa_or_yards": -0.05
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 10.66,
+     "intensity": 0.098,
+     "plays_count": 7,
+     "success_rate": 0.348,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 15.99,
+     "intensity": 0.084,
+     "plays_count": 7,
+     "success_rate": 0.433,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 21.32,
+     "intensity": 0.064,
+     "plays_count": 6,
+     "success_rate": 0.404,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 26.65,
+     "intensity": 0.09,
+     "plays_count": 8,
+     "success_rate": 0.431,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 31.98,
+     "intensity": 0.13,
+     "plays_count": 8,
+     "success_rate": 0.367,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 37.31,
+     "intensity": 0.077,
+     "plays_count": 7,
+     "success_rate": 0.387,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 42.64,
+     "intensity": 0.097,
+     "plays_count": 9,
+     "success_rate": 0.416,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 47.97,
+     "intensity": 0.077,
+     "plays_count": 7,
+     "success_rate": 0.406,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.396,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 5.33,
+     "intensity": 0.044,
+     "plays_count": 3,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 10.66,
+     "intensity": 0.047,
+     "plays_count": 7,
+     "success_rate": 0.359,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 15.99,
+     "intensity": 0.042,
+     "plays_count": 3,
+     "success_rate": 0.386,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 21.32,
+     "intensity": 0.025,
+     "plays_count": 2,
+     "success_rate": 0.387,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 26.65,
+     "intensity": 0.055,
+     "plays_count": 6,
+     "success_rate": 0.334,
+     "avg_epa_or_yards": -0.04
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 31.98,
+     "intensity": 0.008,
+     "plays_count": 4,
+     "success_rate": 0.338,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 37.31,
+     "intensity": 0.027,
+     "plays_count": 3,
+     "success_rate": 0.362,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 42.64,
+     "intensity": 0.022,
+     "plays_count": 5,
+     "success_rate": 0.391,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 47.97,
+     "intensity": 0.057,
+     "plays_count": 7,
+     "success_rate": 0.386,
+     "avg_epa_or_yards": -0.07
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 0.0,
+     "intensity": 0.038,
+     "plays_count": 5,
+     "success_rate": 0.359,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.327,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 10.66,
+     "intensity": 0.013,
+     "plays_count": 3,
+     "success_rate": 0.353,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.327,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 21.32,
+     "intensity": 0.05,
+     "plays_count": 6,
+     "success_rate": 0.329,
+     "avg_epa_or_yards": -0.06
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 26.65,
+     "intensity": 0.046,
+     "plays_count": 4,
+     "success_rate": 0.365,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.303,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 37.31,
+     "intensity": 0.024,
+     "plays_count": 2,
+     "success_rate": 0.331,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 42.64,
+     "intensity": 0.019,
+     "plays_count": 2,
+     "success_rate": 0.396,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.301,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 0.0,
+     "intensity": 0.024,
+     "plays_count": 2,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 5.33,
+     "intensity": 0.007,
+     "plays_count": 3,
+     "success_rate": 0.372,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 10.66,
+     "intensity": 0.027,
+     "plays_count": 4,
+     "success_rate": 0.39,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 15.99,
+     "intensity": 0.008,
+     "plays_count": 1,
+     "success_rate": 0.372,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.347,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.375,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.327,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 37.31,
+     "intensity": 0.039,
+     "plays_count": 3,
+     "success_rate": 0.335,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 42.64,
+     "intensity": 0.034,
+     "plays_count": 4,
+     "success_rate": 0.39,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 47.97,
+     "intensity": 0.029,
+     "plays_count": 3,
+     "success_rate": 0.36,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.352,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.319,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 10.66,
+     "intensity": 0.032,
+     "plays_count": 3,
+     "success_rate": 0.314,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 15.99,
+     "intensity": 0.037,
+     "plays_count": 3,
+     "success_rate": 0.412,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.313,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 26.65,
+     "intensity": 0.001,
+     "plays_count": 2,
+     "success_rate": 0.387,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.344,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 37.31,
+     "intensity": 0.022,
+     "plays_count": 2,
+     "success_rate": 0.403,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 42.64,
+     "intensity": 0.022,
+     "plays_count": 5,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.305,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.33,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 5.33,
+     "intensity": 0.004,
+     "plays_count": 1,
+     "success_rate": 0.378,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.323,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 15.99,
+     "intensity": 0.03,
+     "plays_count": 4,
+     "success_rate": 0.356,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.331,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.374,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 31.98,
+     "intensity": 0.004,
+     "plays_count": 1,
+     "success_rate": 0.323,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 37.31,
+     "intensity": 0.019,
+     "plays_count": 2,
+     "success_rate": 0.325,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.345,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.323,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 0.0,
+     "intensity": 0.04,
+     "plays_count": 5,
+     "success_rate": 0.361,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 5.33,
+     "intensity": 0.012,
+     "plays_count": 4,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.393,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 15.99,
+     "intensity": 0.001,
+     "plays_count": 2,
+     "success_rate": 0.365,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.307,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.375,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.312,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 37.31,
+     "intensity": 0.007,
+     "plays_count": 3,
+     "success_rate": 0.397,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.308,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.332,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.396,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 5.33,
+     "intensity": 0.011,
+     "plays_count": 3,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.327,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 15.99,
+     "intensity": 0.032,
+     "plays_count": 5,
+     "success_rate": 0.36,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 21.32,
+     "intensity": 0.029,
+     "plays_count": 5,
+     "success_rate": 0.33,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.333,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 37.31,
+     "intensity": 0.014,
+     "plays_count": 4,
+     "success_rate": 0.338,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.345,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 0.0,
+     "intensity": 0.035,
+     "plays_count": 3,
+     "success_rate": 0.411,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 5.33,
+     "intensity": 0.006,
+     "plays_count": 2,
+     "success_rate": 0.401,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.341,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 15.99,
+     "intensity": 0.023,
+     "plays_count": 3,
+     "success_rate": 0.385,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 21.32,
+     "intensity": 0.025,
+     "plays_count": 5,
+     "success_rate": 0.33,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.344,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.397,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.316,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.309,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.346,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 0.0,
+     "intensity": 0.018,
+     "plays_count": 4,
+     "success_rate": 0.357,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 5.33,
+     "intensity": 0.014,
+     "plays_count": 3,
+     "success_rate": 0.333,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 10.66,
+     "intensity": 0.039,
+     "plays_count": 6,
+     "success_rate": 0.34,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.392,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.386,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.341,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 31.98,
+     "intensity": 0.029,
+     "plays_count": 4,
+     "success_rate": 0.394,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.359,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.315,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.355,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.332,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.357,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.304,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 15.99,
+     "intensity": 0.034,
+     "plays_count": 5,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 26.65,
+     "intensity": 0.029,
+     "plays_count": 4,
+     "success_rate": 0.315,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 31.98,
+     "intensity": 0.004,
+     "plays_count": 3,
+     "success_rate": 0.389,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.353,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 42.64,
+     "intensity": 0.04,
+     "plays_count": 5,
+     "success_rate": 0.357,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 47.97,
+     "intensity": 0.027,
+     "plays_count": 2,
+     "success_rate": 0.358,
+     "avg_epa_or_yards": -0.07
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 0.0,
+     "intensity": 0.038,
+     "plays_count": 4,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 5.33,
+     "intensity": 0.034,
+     "plays_count": 5,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 10.66,
+     "intensity": 0.028,
+     "plays_count": 3,
+     "success_rate": 0.343,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.387,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.363,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.375,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.363,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.369,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.38,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 47.97,
+     "intensity": 0.039,
+     "plays_count": 4,
+     "success_rate": 0.33,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.379,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 5.33,
+     "intensity": 0.023,
+     "plays_count": 2,
+     "success_rate": 0.396,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.391,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.325,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 21.32,
+     "intensity": 0.037,
+     "plays_count": 2,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.08
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 26.65,
+     "intensity": 0.04,
+     "plays_count": 5,
+     "success_rate": 0.332,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 31.98,
+     "intensity": 0.004,
+     "plays_count": 2,
+     "success_rate": 0.361,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 37.31,
+     "intensity": 0.017,
+     "plays_count": 3,
+     "success_rate": 0.332,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.338,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.357,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 0.0,
+     "intensity": 0.037,
+     "plays_count": 6,
+     "success_rate": 0.345,
+     "avg_epa_or_yards": -0.06
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 5.33,
+     "intensity": 0.006,
+     "plays_count": 3,
+     "success_rate": 0.33,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 10.66,
+     "intensity": 0.003,
+     "plays_count": 3,
+     "success_rate": 0.376,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 15.99,
+     "intensity": 0.02,
+     "plays_count": 4,
+     "success_rate": 0.358,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.38,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 26.65,
+     "intensity": 0.007,
+     "plays_count": 2,
+     "success_rate": 0.366,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.372,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 37.31,
+     "intensity": 0.028,
+     "plays_count": 5,
+     "success_rate": 0.374,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.331,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 47.97,
+     "intensity": 0.037,
+     "plays_count": 5,
+     "success_rate": 0.388,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.375,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.354,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 10.66,
+     "intensity": 0.008,
+     "plays_count": 3,
+     "success_rate": 0.394,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 15.99,
+     "intensity": 0.014,
+     "plays_count": 2,
+     "success_rate": 0.388,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.375,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.396,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 31.98,
+     "intensity": 0.031,
+     "plays_count": 6,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.397,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 42.64,
+     "intensity": 0.008,
+     "plays_count": 2,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 47.97,
+     "intensity": 0.01,
+     "plays_count": 3,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.15
+    }
+   ],
+   "top_players": [
+    {
+     "nflId": 40000,
+     "name": "Alex Carter",
+     "position": "QB",
+     "metric_value": 30.34,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40001,
+     "name": "Dan Jones",
+     "position": "WR",
+     "metric_value": 29.19,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40002,
+     "name": "Greg Reed",
+     "position": "TE",
+     "metric_value": 28.21,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40003,
+     "name": "Jack Davis",
+     "position": "RB",
+     "metric_value": 27.17,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40004,
+     "name": "Matt Keller",
+     "position": "CB",
+     "metric_value": 25.65,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40005,
+     "name": "Paul Stone",
+     "position": "S",
+     "metric_value": 24.62,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40006,
+     "name": "Sam Evans",
+     "position": "QB",
+     "metric_value": 23.41,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40007,
+     "name": "Will Lopez",
+     "position": "WR",
+     "metric_value": 22.74,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40008,
+     "name": "Chris Turner",
+     "position": "TE",
+     "metric_value": 21.48,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40009,
+     "name": "Frank Foster",
+     "position": "RB",
+     "metric_value": 20.56,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40010,
+     "name": "Ian Mills",
+     "position": "CB",
+     "metric_value": 19.11,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40011,
+     "name": "Luke Underwood",
+     "position": "S",
+     "metric_value": 17.93,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40012,
+     "name": "Owen Grant",
+     "position": "QB",
+     "metric_value": 17.21,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40013,
+     "name": "Ryan Nolan",
+     "position": "WR",
+     "metric_value": 16.15,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40014,
+     "name": "Vic Vance",
+     "position": "TE",
+     "metric_value": 14.75,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40015,
+     "name": "Ben Hayes",
+     "position": "RB",
+     "metric_value": 13.7,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40016,
+     "name": "Eli Ortiz",
+     "position": "CB",
+     "metric_value": 12.47,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40017,
+     "name": "Hank Wood",
+     "position": "S",
+     "metric_value": 11.77,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40018,
+     "name": "Kyle Irwin",
+     "position": "QB",
+     "metric_value": 10.35,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40019,
+     "name": "Nate Price",
+     "position": "WR",
+     "metric_value": 9.35,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40020,
+     "name": "Quinn Carter",
+     "position": "TE",
+     "metric_value": 8.05,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40021,
+     "name": "Tom Jones",
+     "position": "RB",
+     "metric_value": 7.34,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40022,
+     "name": "Alex Reed",
+     "position": "CB",
+     "metric_value": 5.87,
+     "metric_label": "Targets"
+    },
+    {
+     "nflId": 40023,
+     "name": "Dan Davis",
+     "position": "S",
+     "metric_value": 4.93,
+     "metric_label": "Targets"
+    }
+   ],
+   "yards_by_down": [
+    {
+     "down": 1,
+     "avg_yards": 6.6
+    },
+    {
+     "down": 2,
+     "avg_yards": 5.7
+    },
+    {
+     "down": 3,
+     "avg_yards": 4.8
+    },
+    {
+     "down": 4,
+     "avg_yards": 3.9
+    }
+   ]
+  },
+  "routes": {
+   "meta": {
+    "total_plays": 14306,
+    "avg_yards": 6.7,
+    "completion_pct": 62.0,
+    "sack_rate": 5.5,
+    "avg_time_to_throw": 2.5
+   },
+   "grid": [
+    {
+     "x_bin": 0,
+     "y_bin": 0.0,
+     "intensity": 0.565,
+     "plays_count": 37,
+     "success_rate": 0.575,
+     "avg_epa_or_yards": 0.53
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 5.33,
+     "intensity": 0.571,
+     "plays_count": 37,
+     "success_rate": 0.573,
+     "avg_epa_or_yards": 0.57
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 10.66,
+     "intensity": 0.54,
+     "plays_count": 35,
+     "success_rate": 0.579,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 15.99,
+     "intensity": 0.437,
+     "plays_count": 30,
+     "success_rate": 0.538,
+     "avg_epa_or_yards": 0.26
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 21.32,
+     "intensity": 0.421,
+     "plays_count": 26,
+     "success_rate": 0.512,
+     "avg_epa_or_yards": 0.27
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 26.65,
+     "intensity": 0.374,
+     "plays_count": 24,
+     "success_rate": 0.455,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 31.98,
+     "intensity": 0.437,
+     "plays_count": 27,
+     "success_rate": 0.52,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 37.31,
+     "intensity": 0.472,
+     "plays_count": 32,
+     "success_rate": 0.496,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 42.64,
+     "intensity": 0.55,
+     "plays_count": 36,
+     "success_rate": 0.582,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 47.97,
+     "intensity": 0.544,
+     "plays_count": 34,
+     "success_rate": 0.573,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 0.0,
+     "intensity": 0.657,
+     "plays_count": 43,
+     "success_rate": 0.608,
+     "avg_epa_or_yards": 0.65
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 5.33,
+     "intensity": 0.584,
+     "plays_count": 38,
+     "success_rate": 0.566,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 10.66,
+     "intensity": 0.553,
+     "plays_count": 34,
+     "success_rate": 0.527,
+     "avg_epa_or_yards": 0.38
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 15.99,
+     "intensity": 0.484,
+     "plays_count": 33,
+     "success_rate": 0.528,
+     "avg_epa_or_yards": 0.42
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 21.32,
+     "intensity": 0.472,
+     "plays_count": 30,
+     "success_rate": 0.506,
+     "avg_epa_or_yards": 0.32
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 26.65,
+     "intensity": 0.465,
+     "plays_count": 30,
+     "success_rate": 0.53,
+     "avg_epa_or_yards": 0.36
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 31.98,
+     "intensity": 0.457,
+     "plays_count": 28,
+     "success_rate": 0.52,
+     "avg_epa_or_yards": 0.3
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 37.31,
+     "intensity": 0.578,
+     "plays_count": 36,
+     "success_rate": 0.565,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 42.64,
+     "intensity": 0.625,
+     "plays_count": 41,
+     "success_rate": 0.615,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 47.97,
+     "intensity": 0.659,
+     "plays_count": 40,
+     "success_rate": 0.632,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 0.0,
+     "intensity": 0.683,
+     "plays_count": 44,
+     "success_rate": 0.639,
+     "avg_epa_or_yards": 0.7
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 5.33,
+     "intensity": 0.686,
+     "plays_count": 45,
+     "success_rate": 0.608,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 10.66,
+     "intensity": 0.6,
+     "plays_count": 37,
+     "success_rate": 0.575,
+     "avg_epa_or_yards": 0.61
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 15.99,
+     "intensity": 0.506,
+     "plays_count": 33,
+     "success_rate": 0.542,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 21.32,
+     "intensity": 0.501,
+     "plays_count": 34,
+     "success_rate": 0.531,
+     "avg_epa_or_yards": 0.38
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 26.65,
+     "intensity": 0.47,
+     "plays_count": 31,
+     "success_rate": 0.569,
+     "avg_epa_or_yards": 0.4
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 31.98,
+     "intensity": 0.549,
+     "plays_count": 36,
+     "success_rate": 0.593,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 37.31,
+     "intensity": 0.636,
+     "plays_count": 40,
+     "success_rate": 0.619,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 42.64,
+     "intensity": 0.702,
+     "plays_count": 44,
+     "success_rate": 0.617,
+     "avg_epa_or_yards": 0.58
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 47.97,
+     "intensity": 0.656,
+     "plays_count": 40,
+     "success_rate": 0.657,
+     "avg_epa_or_yards": 0.58
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 0.0,
+     "intensity": 0.791,
+     "plays_count": 48,
+     "success_rate": 0.63,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 5.33,
+     "intensity": 0.747,
+     "plays_count": 48,
+     "success_rate": 0.609,
+     "avg_epa_or_yards": 0.75
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 10.66,
+     "intensity": 0.657,
+     "plays_count": 43,
+     "success_rate": 0.651,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 15.99,
+     "intensity": 0.588,
+     "plays_count": 37,
+     "success_rate": 0.612,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 21.32,
+     "intensity": 0.476,
+     "plays_count": 30,
+     "success_rate": 0.506,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 26.65,
+     "intensity": 0.531,
+     "plays_count": 35,
+     "success_rate": 0.593,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 31.98,
+     "intensity": 0.56,
+     "plays_count": 35,
+     "success_rate": 0.565,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 37.31,
+     "intensity": 0.664,
+     "plays_count": 41,
+     "success_rate": 0.61,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 42.64,
+     "intensity": 0.798,
+     "plays_count": 51,
+     "success_rate": 0.664,
+     "avg_epa_or_yards": 0.76
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 47.97,
+     "intensity": 0.754,
+     "plays_count": 46,
+     "success_rate": 0.683,
+     "avg_epa_or_yards": 0.7
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 0.0,
+     "intensity": 0.809,
+     "plays_count": 52,
+     "success_rate": 0.66,
+     "avg_epa_or_yards": 0.86
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 5.33,
+     "intensity": 0.869,
+     "plays_count": 56,
+     "success_rate": 0.694,
+     "avg_epa_or_yards": 0.8
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 10.66,
+     "intensity": 0.705,
+     "plays_count": 44,
+     "success_rate": 0.635,
+     "avg_epa_or_yards": 0.74
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 15.99,
+     "intensity": 0.656,
+     "plays_count": 43,
+     "success_rate": 0.643,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 21.32,
+     "intensity": 0.516,
+     "plays_count": 32,
+     "success_rate": 0.571,
+     "avg_epa_or_yards": 0.49
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 26.65,
+     "intensity": 0.515,
+     "plays_count": 33,
+     "success_rate": 0.516,
+     "avg_epa_or_yards": 0.49
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 31.98,
+     "intensity": 0.608,
+     "plays_count": 40,
+     "success_rate": 0.572,
+     "avg_epa_or_yards": 0.58
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 37.31,
+     "intensity": 0.719,
+     "plays_count": 44,
+     "success_rate": 0.678,
+     "avg_epa_or_yards": 0.59
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 42.64,
+     "intensity": 0.85,
+     "plays_count": 53,
+     "success_rate": 0.735,
+     "avg_epa_or_yards": 0.76
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 47.97,
+     "intensity": 0.799,
+     "plays_count": 50,
+     "success_rate": 0.655,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 0.0,
+     "intensity": 0.858,
+     "plays_count": 52,
+     "success_rate": 0.693,
+     "avg_epa_or_yards": 0.78
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 5.33,
+     "intensity": 0.92,
+     "plays_count": 59,
+     "success_rate": 0.706,
+     "avg_epa_or_yards": 0.81
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 10.66,
+     "intensity": 0.774,
+     "plays_count": 50,
+     "success_rate": 0.694,
+     "avg_epa_or_yards": 0.76
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 15.99,
+     "intensity": 0.652,
+     "plays_count": 42,
+     "success_rate": 0.575,
+     "avg_epa_or_yards": 0.54
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 21.32,
+     "intensity": 0.549,
+     "plays_count": 36,
+     "success_rate": 0.589,
+     "avg_epa_or_yards": 0.39
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 26.65,
+     "intensity": 0.539,
+     "plays_count": 35,
+     "success_rate": 0.56,
+     "avg_epa_or_yards": 0.35
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 31.98,
+     "intensity": 0.685,
+     "plays_count": 41,
+     "success_rate": 0.6,
+     "avg_epa_or_yards": 0.69
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 37.31,
+     "intensity": 0.797,
+     "plays_count": 50,
+     "success_rate": 0.692,
+     "avg_epa_or_yards": 0.76
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 42.64,
+     "intensity": 0.916,
+     "plays_count": 55,
+     "success_rate": 0.695,
+     "avg_epa_or_yards": 0.86
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 47.97,
+     "intensity": 0.895,
+     "plays_count": 54,
+     "success_rate": 0.7,
+     "avg_epa_or_yards": 0.93
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 0.0,
+     "intensity": 0.966,
+     "plays_count": 60,
+     "success_rate": 0.697,
+     "avg_epa_or_yards": 1.04
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 5.33,
+     "intensity": 0.944,
+     "plays_count": 59,
+     "success_rate": 0.679,
+     "avg_epa_or_yards": 0.94
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 10.66,
+     "intensity": 0.803,
+     "plays_count": 49,
+     "success_rate": 0.636,
+     "avg_epa_or_yards": 0.75
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 15.99,
+     "intensity": 0.696,
+     "plays_count": 44,
+     "success_rate": 0.603,
+     "avg_epa_or_yards": 0.62
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 21.32,
+     "intensity": 0.634,
+     "plays_count": 41,
+     "success_rate": 0.562,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 26.65,
+     "intensity": 0.562,
+     "plays_count": 34,
+     "success_rate": 0.577,
+     "avg_epa_or_yards": 0.48
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 31.98,
+     "intensity": 0.719,
+     "plays_count": 47,
+     "success_rate": 0.643,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 37.31,
+     "intensity": 0.864,
+     "plays_count": 54,
+     "success_rate": 0.709,
+     "avg_epa_or_yards": 0.93
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 42.64,
+     "intensity": 0.945,
+     "plays_count": 58,
+     "success_rate": 0.68,
+     "avg_epa_or_yards": 0.99
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 47.97,
+     "intensity": 0.94,
+     "plays_count": 58,
+     "success_rate": 0.749,
+     "avg_epa_or_yards": 0.95
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 0.0,
+     "intensity": 1.0,
+     "plays_count": 63,
+     "success_rate": 0.774,
+     "avg_epa_or_yards": 0.97
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 5.33,
+     "intensity": 0.938,
+     "plays_count": 56,
+     "success_rate": 0.73,
+     "avg_epa_or_yards": 0.99
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 10.66,
+     "intensity": 0.858,
+     "plays_count": 52,
+     "success_rate": 0.721,
+     "avg_epa_or_yards": 0.82
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 15.99,
+     "intensity": 0.707,
+     "plays_count": 45,
+     "success_rate": 0.646,
+     "avg_epa_or_yards": 0.71
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 21.32,
+     "intensity": 0.628,
+     "plays_count": 38,
+     "success_rate": 0.629,
+     "avg_epa_or_yards": 0.54
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 26.65,
+     "intensity": 0.612,
+     "plays_count": 38,
+     "success_rate": 0.549,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 31.98,
+     "intensity": 0.748,
+     "plays_count": 45,
+     "success_rate": 0.692,
+     "avg_epa_or_yards": 0.7
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 37.31,
+     "intensity": 0.825,
+     "plays_count": 53,
+     "success_rate": 0.684,
+     "avg_epa_or_yards": 0.74
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 42.64,
+     "intensity": 0.939,
+     "plays_count": 59,
+     "success_rate": 0.695,
+     "avg_epa_or_yards": 0.9
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 47.97,
+     "intensity": 0.982,
+     "plays_count": 62,
+     "success_rate": 0.779,
+     "avg_epa_or_yards": 0.94
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 0.0,
+     "intensity": 0.948,
+     "plays_count": 57,
+     "success_rate": 0.716,
+     "avg_epa_or_yards": 1.02
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 5.33,
+     "intensity": 0.965,
+     "plays_count": 61,
+     "success_rate": 0.775,
+     "avg_epa_or_yards": 0.94
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 10.66,
+     "intensity": 0.879,
+     "plays_count": 57,
+     "success_rate": 0.701,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 15.99,
+     "intensity": 0.725,
+     "plays_count": 47,
+     "success_rate": 0.642,
+     "avg_epa_or_yards": 0.73
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 21.32,
+     "intensity": 0.604,
+     "plays_count": 39,
+     "success_rate": 0.549,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 26.65,
+     "intensity": 0.658,
+     "plays_count": 43,
+     "success_rate": 0.618,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 31.98,
+     "intensity": 0.724,
+     "plays_count": 44,
+     "success_rate": 0.656,
+     "avg_epa_or_yards": 0.63
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 37.31,
+     "intensity": 0.864,
+     "plays_count": 54,
+     "success_rate": 0.688,
+     "avg_epa_or_yards": 0.88
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 42.64,
+     "intensity": 0.991,
+     "plays_count": 61,
+     "success_rate": 0.701,
+     "avg_epa_or_yards": 1.06
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 47.97,
+     "intensity": 0.951,
+     "plays_count": 58,
+     "success_rate": 0.78,
+     "avg_epa_or_yards": 0.9
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 0.0,
+     "intensity": 0.989,
+     "plays_count": 63,
+     "success_rate": 0.79,
+     "avg_epa_or_yards": 0.9
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 5.33,
+     "intensity": 1.0,
+     "plays_count": 63,
+     "success_rate": 0.736,
+     "avg_epa_or_yards": 1.06
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 10.66,
+     "intensity": 0.872,
+     "plays_count": 55,
+     "success_rate": 0.744,
+     "avg_epa_or_yards": 0.77
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 15.99,
+     "intensity": 0.737,
+     "plays_count": 47,
+     "success_rate": 0.673,
+     "avg_epa_or_yards": 0.59
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 21.32,
+     "intensity": 0.631,
+     "plays_count": 38,
+     "success_rate": 0.63,
+     "avg_epa_or_yards": 0.53
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 26.65,
+     "intensity": 0.59,
+     "plays_count": 37,
+     "success_rate": 0.593,
+     "avg_epa_or_yards": 0.53
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 31.98,
+     "intensity": 0.711,
+     "plays_count": 45,
+     "success_rate": 0.679,
+     "avg_epa_or_yards": 0.63
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 37.31,
+     "intensity": 0.838,
+     "plays_count": 53,
+     "success_rate": 0.692,
+     "avg_epa_or_yards": 0.81
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 42.64,
+     "intensity": 0.96,
+     "plays_count": 59,
+     "success_rate": 0.749,
+     "avg_epa_or_yards": 0.9
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 47.97,
+     "intensity": 0.969,
+     "plays_count": 59,
+     "success_rate": 0.761,
+     "avg_epa_or_yards": 0.96
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 0.0,
+     "intensity": 0.937,
+     "plays_count": 58,
+     "success_rate": 0.731,
+     "avg_epa_or_yards": 0.88
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 5.33,
+     "intensity": 0.911,
+     "plays_count": 56,
+     "success_rate": 0.709,
+     "avg_epa_or_yards": 0.99
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 10.66,
+     "intensity": 0.829,
+     "plays_count": 51,
+     "success_rate": 0.723,
+     "avg_epa_or_yards": 0.79
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 15.99,
+     "intensity": 0.709,
+     "plays_count": 43,
+     "success_rate": 0.669,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 21.32,
+     "intensity": 0.588,
+     "plays_count": 39,
+     "success_rate": 0.58,
+     "avg_epa_or_yards": 0.42
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 26.65,
+     "intensity": 0.57,
+     "plays_count": 37,
+     "success_rate": 0.613,
+     "avg_epa_or_yards": 0.45
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 31.98,
+     "intensity": 0.73,
+     "plays_count": 45,
+     "success_rate": 0.598,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 37.31,
+     "intensity": 0.8,
+     "plays_count": 52,
+     "success_rate": 0.705,
+     "avg_epa_or_yards": 0.8
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 42.64,
+     "intensity": 0.97,
+     "plays_count": 62,
+     "success_rate": 0.752,
+     "avg_epa_or_yards": 1.02
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 47.97,
+     "intensity": 0.911,
+     "plays_count": 57,
+     "success_rate": 0.676,
+     "avg_epa_or_yards": 0.83
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 0.0,
+     "intensity": 0.865,
+     "plays_count": 52,
+     "success_rate": 0.725,
+     "avg_epa_or_yards": 0.74
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 5.33,
+     "intensity": 0.916,
+     "plays_count": 57,
+     "success_rate": 0.703,
+     "avg_epa_or_yards": 0.96
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 10.66,
+     "intensity": 0.82,
+     "plays_count": 51,
+     "success_rate": 0.689,
+     "avg_epa_or_yards": 0.7
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 15.99,
+     "intensity": 0.671,
+     "plays_count": 41,
+     "success_rate": 0.668,
+     "avg_epa_or_yards": 0.65
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 21.32,
+     "intensity": 0.582,
+     "plays_count": 37,
+     "success_rate": 0.61,
+     "avg_epa_or_yards": 0.56
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 26.65,
+     "intensity": 0.58,
+     "plays_count": 35,
+     "success_rate": 0.629,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 31.98,
+     "intensity": 0.652,
+     "plays_count": 41,
+     "success_rate": 0.629,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 37.31,
+     "intensity": 0.765,
+     "plays_count": 49,
+     "success_rate": 0.684,
+     "avg_epa_or_yards": 0.75
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 42.64,
+     "intensity": 0.885,
+     "plays_count": 54,
+     "success_rate": 0.751,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 47.97,
+     "intensity": 0.91,
+     "plays_count": 58,
+     "success_rate": 0.67,
+     "avg_epa_or_yards": 0.82
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 0.0,
+     "intensity": 0.857,
+     "plays_count": 52,
+     "success_rate": 0.659,
+     "avg_epa_or_yards": 0.79
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 5.33,
+     "intensity": 0.866,
+     "plays_count": 55,
+     "success_rate": 0.681,
+     "avg_epa_or_yards": 0.93
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 10.66,
+     "intensity": 0.763,
+     "plays_count": 49,
+     "success_rate": 0.69,
+     "avg_epa_or_yards": 0.67
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 15.99,
+     "intensity": 0.665,
+     "plays_count": 42,
+     "success_rate": 0.621,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 21.32,
+     "intensity": 0.553,
+     "plays_count": 34,
+     "success_rate": 0.574,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 26.65,
+     "intensity": 0.533,
+     "plays_count": 33,
+     "success_rate": 0.607,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 31.98,
+     "intensity": 0.634,
+     "plays_count": 41,
+     "success_rate": 0.626,
+     "avg_epa_or_yards": 0.58
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 37.31,
+     "intensity": 0.722,
+     "plays_count": 47,
+     "success_rate": 0.645,
+     "avg_epa_or_yards": 0.73
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 42.64,
+     "intensity": 0.849,
+     "plays_count": 51,
+     "success_rate": 0.644,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 47.97,
+     "intensity": 0.815,
+     "plays_count": 51,
+     "success_rate": 0.691,
+     "avg_epa_or_yards": 0.83
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 0.0,
+     "intensity": 0.737,
+     "plays_count": 46,
+     "success_rate": 0.659,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 5.33,
+     "intensity": 0.796,
+     "plays_count": 50,
+     "success_rate": 0.647,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 10.66,
+     "intensity": 0.676,
+     "plays_count": 42,
+     "success_rate": 0.651,
+     "avg_epa_or_yards": 0.65
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 15.99,
+     "intensity": 0.604,
+     "plays_count": 37,
+     "success_rate": 0.549,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 21.32,
+     "intensity": 0.516,
+     "plays_count": 33,
+     "success_rate": 0.555,
+     "avg_epa_or_yards": 0.36
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 26.65,
+     "intensity": 0.535,
+     "plays_count": 35,
+     "success_rate": 0.545,
+     "avg_epa_or_yards": 0.49
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 31.98,
+     "intensity": 0.611,
+     "plays_count": 40,
+     "success_rate": 0.63,
+     "avg_epa_or_yards": 0.63
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 37.31,
+     "intensity": 0.725,
+     "plays_count": 44,
+     "success_rate": 0.627,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 42.64,
+     "intensity": 0.793,
+     "plays_count": 49,
+     "success_rate": 0.664,
+     "avg_epa_or_yards": 0.71
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 47.97,
+     "intensity": 0.777,
+     "plays_count": 48,
+     "success_rate": 0.62,
+     "avg_epa_or_yards": 0.69
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 0.0,
+     "intensity": 0.706,
+     "plays_count": 44,
+     "success_rate": 0.644,
+     "avg_epa_or_yards": 0.6
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 5.33,
+     "intensity": 0.657,
+     "plays_count": 43,
+     "success_rate": 0.579,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 10.66,
+     "intensity": 0.659,
+     "plays_count": 42,
+     "success_rate": 0.595,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 15.99,
+     "intensity": 0.562,
+     "plays_count": 36,
+     "success_rate": 0.576,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 21.32,
+     "intensity": 0.455,
+     "plays_count": 29,
+     "success_rate": 0.484,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 26.65,
+     "intensity": 0.448,
+     "plays_count": 29,
+     "success_rate": 0.576,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 31.98,
+     "intensity": 0.552,
+     "plays_count": 35,
+     "success_rate": 0.526,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 37.31,
+     "intensity": 0.61,
+     "plays_count": 40,
+     "success_rate": 0.609,
+     "avg_epa_or_yards": 0.53
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 42.64,
+     "intensity": 0.682,
+     "plays_count": 43,
+     "success_rate": 0.657,
+     "avg_epa_or_yards": 0.6
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 47.97,
+     "intensity": 0.655,
+     "plays_count": 43,
+     "success_rate": 0.635,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 0.0,
+     "intensity": 0.651,
+     "plays_count": 41,
+     "success_rate": 0.6,
+     "avg_epa_or_yards": 0.59
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 5.33,
+     "intensity": 0.626,
+     "plays_count": 38,
+     "success_rate": 0.606,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 10.66,
+     "intensity": 0.555,
+     "plays_count": 35,
+     "success_rate": 0.598,
+     "avg_epa_or_yards": 0.42
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 15.99,
+     "intensity": 0.46,
+     "plays_count": 32,
+     "success_rate": 0.552,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 21.32,
+     "intensity": 0.447,
+     "plays_count": 31,
+     "success_rate": 0.518,
+     "avg_epa_or_yards": 0.4
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 26.65,
+     "intensity": 0.399,
+     "plays_count": 25,
+     "success_rate": 0.553,
+     "avg_epa_or_yards": 0.33
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 31.98,
+     "intensity": 0.508,
+     "plays_count": 31,
+     "success_rate": 0.554,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 37.31,
+     "intensity": 0.54,
+     "plays_count": 33,
+     "success_rate": 0.53,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 42.64,
+     "intensity": 0.615,
+     "plays_count": 39,
+     "success_rate": 0.592,
+     "avg_epa_or_yards": 0.56
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 47.97,
+     "intensity": 0.608,
+     "plays_count": 39,
+     "success_rate": 0.576,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 0.0,
+     "intensity": 0.541,
+     "plays_count": 33,
+     "success_rate": 0.615,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 5.33,
+     "intensity": 0.569,
+     "plays_count": 35,
+     "success_rate": 0.561,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 10.66,
+     "intensity": 0.526,
+     "plays_count": 34,
+     "success_rate": 0.581,
+     "avg_epa_or_yards": 0.39
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 15.99,
+     "intensity": 0.449,
+     "plays_count": 30,
+     "success_rate": 0.517,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 21.32,
+     "intensity": 0.368,
+     "plays_count": 26,
+     "success_rate": 0.506,
+     "avg_epa_or_yards": 0.3
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 26.65,
+     "intensity": 0.365,
+     "plays_count": 25,
+     "success_rate": 0.515,
+     "avg_epa_or_yards": 0.14
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 31.98,
+     "intensity": 0.416,
+     "plays_count": 27,
+     "success_rate": 0.563,
+     "avg_epa_or_yards": 0.36
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 37.31,
+     "intensity": 0.513,
+     "plays_count": 34,
+     "success_rate": 0.563,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 42.64,
+     "intensity": 0.565,
+     "plays_count": 36,
+     "success_rate": 0.543,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 47.97,
+     "intensity": 0.533,
+     "plays_count": 34,
+     "success_rate": 0.597,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 0.0,
+     "intensity": 0.501,
+     "plays_count": 33,
+     "success_rate": 0.504,
+     "avg_epa_or_yards": 0.49
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 5.33,
+     "intensity": 0.487,
+     "plays_count": 30,
+     "success_rate": 0.497,
+     "avg_epa_or_yards": 0.35
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 10.66,
+     "intensity": 0.446,
+     "plays_count": 27,
+     "success_rate": 0.547,
+     "avg_epa_or_yards": 0.32
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 15.99,
+     "intensity": 0.385,
+     "plays_count": 26,
+     "success_rate": 0.546,
+     "avg_epa_or_yards": 0.34
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 21.32,
+     "intensity": 0.39,
+     "plays_count": 26,
+     "success_rate": 0.462,
+     "avg_epa_or_yards": 0.2
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 26.65,
+     "intensity": 0.339,
+     "plays_count": 21,
+     "success_rate": 0.468,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 31.98,
+     "intensity": 0.397,
+     "plays_count": 26,
+     "success_rate": 0.49,
+     "avg_epa_or_yards": 0.21
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 37.31,
+     "intensity": 0.433,
+     "plays_count": 30,
+     "success_rate": 0.508,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 42.64,
+     "intensity": 0.502,
+     "plays_count": 33,
+     "success_rate": 0.573,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 47.97,
+     "intensity": 0.487,
+     "plays_count": 32,
+     "success_rate": 0.556,
+     "avg_epa_or_yards": 0.32
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 0.0,
+     "intensity": 0.446,
+     "plays_count": 28,
+     "success_rate": 0.534,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 5.33,
+     "intensity": 0.396,
+     "plays_count": 28,
+     "success_rate": 0.488,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 10.66,
+     "intensity": 0.396,
+     "plays_count": 25,
+     "success_rate": 0.529,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 15.99,
+     "intensity": 0.376,
+     "plays_count": 24,
+     "success_rate": 0.544,
+     "avg_epa_or_yards": 0.31
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 21.32,
+     "intensity": 0.302,
+     "plays_count": 19,
+     "success_rate": 0.433,
+     "avg_epa_or_yards": 0.2
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 26.65,
+     "intensity": 0.326,
+     "plays_count": 21,
+     "success_rate": 0.528,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 31.98,
+     "intensity": 0.344,
+     "plays_count": 24,
+     "success_rate": 0.518,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 37.31,
+     "intensity": 0.375,
+     "plays_count": 24,
+     "success_rate": 0.521,
+     "avg_epa_or_yards": 0.22
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 42.64,
+     "intensity": 0.413,
+     "plays_count": 27,
+     "success_rate": 0.491,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 47.97,
+     "intensity": 0.419,
+     "plays_count": 26,
+     "success_rate": 0.521,
+     "avg_epa_or_yards": 0.39
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 0.0,
+     "intensity": 0.347,
+     "plays_count": 24,
+     "success_rate": 0.453,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 5.33,
+     "intensity": 0.406,
+     "plays_count": 27,
+     "success_rate": 0.487,
+     "avg_epa_or_yards": 0.32
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 10.66,
+     "intensity": 0.339,
+     "plays_count": 22,
+     "success_rate": 0.499,
+     "avg_epa_or_yards": 0.12
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 15.99,
+     "intensity": 0.328,
+     "plays_count": 21,
+     "success_rate": 0.503,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 21.32,
+     "intensity": 0.335,
+     "plays_count": 23,
+     "success_rate": 0.434,
+     "avg_epa_or_yards": 0.21
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 26.65,
+     "intensity": 0.319,
+     "plays_count": 23,
+     "success_rate": 0.468,
+     "avg_epa_or_yards": 0.27
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 31.98,
+     "intensity": 0.364,
+     "plays_count": 25,
+     "success_rate": 0.494,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 37.31,
+     "intensity": 0.39,
+     "plays_count": 27,
+     "success_rate": 0.488,
+     "avg_epa_or_yards": 0.3
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 42.64,
+     "intensity": 0.352,
+     "plays_count": 25,
+     "success_rate": 0.45,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 47.97,
+     "intensity": 0.415,
+     "plays_count": 27,
+     "success_rate": 0.539,
+     "avg_epa_or_yards": 0.39
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 0.0,
+     "intensity": 0.313,
+     "plays_count": 22,
+     "success_rate": 0.443,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 5.33,
+     "intensity": 0.311,
+     "plays_count": 19,
+     "success_rate": 0.516,
+     "avg_epa_or_yards": 0.27
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 10.66,
+     "intensity": 0.367,
+     "plays_count": 24,
+     "success_rate": 0.496,
+     "avg_epa_or_yards": 0.33
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 15.99,
+     "intensity": 0.343,
+     "plays_count": 24,
+     "success_rate": 0.53,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 21.32,
+     "intensity": 0.306,
+     "plays_count": 18,
+     "success_rate": 0.479,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 26.65,
+     "intensity": 0.306,
+     "plays_count": 22,
+     "success_rate": 0.451,
+     "avg_epa_or_yards": 0.26
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 31.98,
+     "intensity": 0.331,
+     "plays_count": 22,
+     "success_rate": 0.482,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 37.31,
+     "intensity": 0.327,
+     "plays_count": 23,
+     "success_rate": 0.478,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 42.64,
+     "intensity": 0.318,
+     "plays_count": 20,
+     "success_rate": 0.444,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 47.97,
+     "intensity": 0.311,
+     "plays_count": 20,
+     "success_rate": 0.443,
+     "avg_epa_or_yards": 0.22
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 0.0,
+     "intensity": 0.306,
+     "plays_count": 22,
+     "success_rate": 0.479,
+     "avg_epa_or_yards": 0.22
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 5.33,
+     "intensity": 0.344,
+     "plays_count": 21,
+     "success_rate": 0.523,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 10.66,
+     "intensity": 0.319,
+     "plays_count": 22,
+     "success_rate": 0.479,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 15.99,
+     "intensity": 0.322,
+     "plays_count": 22,
+     "success_rate": 0.447,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 21.32,
+     "intensity": 0.319,
+     "plays_count": 20,
+     "success_rate": 0.452,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 26.65,
+     "intensity": 0.252,
+     "plays_count": 16,
+     "success_rate": 0.476,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 31.98,
+     "intensity": 0.323,
+     "plays_count": 21,
+     "success_rate": 0.501,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 37.31,
+     "intensity": 0.289,
+     "plays_count": 20,
+     "success_rate": 0.485,
+     "avg_epa_or_yards": 0.06
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 42.64,
+     "intensity": 0.327,
+     "plays_count": 20,
+     "success_rate": 0.462,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 47.97,
+     "intensity": 0.322,
+     "plays_count": 21,
+     "success_rate": 0.518,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 0.0,
+     "intensity": 0.29,
+     "plays_count": 19,
+     "success_rate": 0.428,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 5.33,
+     "intensity": 0.283,
+     "plays_count": 18,
+     "success_rate": 0.475,
+     "avg_epa_or_yards": 0.08
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 10.66,
+     "intensity": 0.278,
+     "plays_count": 17,
+     "success_rate": 0.426,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 15.99,
+     "intensity": 0.268,
+     "plays_count": 18,
+     "success_rate": 0.449,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 21.32,
+     "intensity": 0.248,
+     "plays_count": 17,
+     "success_rate": 0.453,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 26.65,
+     "intensity": 0.275,
+     "plays_count": 17,
+     "success_rate": 0.435,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 31.98,
+     "intensity": 0.25,
+     "plays_count": 18,
+     "success_rate": 0.408,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 37.31,
+     "intensity": 0.291,
+     "plays_count": 20,
+     "success_rate": 0.424,
+     "avg_epa_or_yards": 0.16
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 42.64,
+     "intensity": 0.331,
+     "plays_count": 20,
+     "success_rate": 0.487,
+     "avg_epa_or_yards": 0.2
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 47.97,
+     "intensity": 0.286,
+     "plays_count": 19,
+     "success_rate": 0.429,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 0.0,
+     "intensity": 0.3,
+     "plays_count": 20,
+     "success_rate": 0.432,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 5.33,
+     "intensity": 0.308,
+     "plays_count": 21,
+     "success_rate": 0.432,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 10.66,
+     "intensity": 0.302,
+     "plays_count": 21,
+     "success_rate": 0.466,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 15.99,
+     "intensity": 0.25,
+     "plays_count": 17,
+     "success_rate": 0.406,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 21.32,
+     "intensity": 0.238,
+     "plays_count": 18,
+     "success_rate": 0.467,
+     "avg_epa_or_yards": 0.06
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 26.65,
+     "intensity": 0.242,
+     "plays_count": 18,
+     "success_rate": 0.471,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 31.98,
+     "intensity": 0.279,
+     "plays_count": 17,
+     "success_rate": 0.446,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 37.31,
+     "intensity": 0.298,
+     "plays_count": 22,
+     "success_rate": 0.513,
+     "avg_epa_or_yards": 0.07
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 42.64,
+     "intensity": 0.295,
+     "plays_count": 21,
+     "success_rate": 0.421,
+     "avg_epa_or_yards": 0.14
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 47.97,
+     "intensity": 0.256,
+     "plays_count": 18,
+     "success_rate": 0.479,
+     "avg_epa_or_yards": 0.2
+    }
+   ],
+   "top_players": [
+    {
+     "nflId": 40100,
+     "name": "Ben Davis",
+     "position": "QB",
+     "metric_value": 30.32,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40101,
+     "name": "Eli Keller",
+     "position": "WR",
+     "metric_value": 29.11,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40102,
+     "name": "Hank Stone",
+     "position": "TE",
+     "metric_value": 28.3,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40103,
+     "name": "Kyle Evans",
+     "position": "RB",
+     "metric_value": 26.89,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40104,
+     "name": "Nate Lopez",
+     "position": "CB",
+     "metric_value": 26.03,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40105,
+     "name": "Quinn Turner",
+     "position": "S",
+     "metric_value": 24.95,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40106,
+     "name": "Tom Foster",
+     "position": "QB",
+     "metric_value": 23.59,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40107,
+     "name": "Alex Mills",
+     "position": "WR",
+     "metric_value": 22.64,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40108,
+     "name": "Dan Underwood",
+     "position": "TE",
+     "metric_value": 21.53,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40109,
+     "name": "Greg Grant",
+     "position": "RB",
+     "metric_value": 20.37,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40110,
+     "name": "Jack Nolan",
+     "position": "CB",
+     "metric_value": 19.33,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40111,
+     "name": "Matt Vance",
+     "position": "S",
+     "metric_value": 18.07,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40112,
+     "name": "Paul Hayes",
+     "position": "QB",
+     "metric_value": 16.89,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40113,
+     "name": "Sam Ortiz",
+     "position": "WR",
+     "metric_value": 15.97,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40114,
+     "name": "Will Wood",
+     "position": "TE",
+     "metric_value": 14.86,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40115,
+     "name": "Chris Irwin",
+     "position": "RB",
+     "metric_value": 13.86,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40116,
+     "name": "Frank Price",
+     "position": "CB",
+     "metric_value": 12.51,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40117,
+     "name": "Ian Carter",
+     "position": "S",
+     "metric_value": 11.3,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40118,
+     "name": "Luke Jones",
+     "position": "QB",
+     "metric_value": 10.21,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40119,
+     "name": "Owen Reed",
+     "position": "WR",
+     "metric_value": 9.25,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40120,
+     "name": "Ryan Davis",
+     "position": "TE",
+     "metric_value": 8.34,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40121,
+     "name": "Vic Keller",
+     "position": "RB",
+     "metric_value": 7.17,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40122,
+     "name": "Ben Stone",
+     "position": "CB",
+     "metric_value": 6.07,
+     "metric_label": "Rutas"
+    },
+    {
+     "nflId": 40123,
+     "name": "Eli Evans",
+     "position": "S",
+     "metric_value": 5.11,
+     "metric_label": "Rutas"
+    }
+   ],
+   "yards_by_down": [
+    {
+     "down": 1,
+     "avg_yards": 6.8
+    },
+    {
+     "down": 2,
+     "avg_yards": 5.9
+    },
+    {
+     "down": 3,
+     "avg_yards": 5.0
+    },
+    {
+     "down": 4,
+     "avg_yards": 4.1
+    }
+   ]
+  },
+  "pocket_pressure": {
+   "meta": {
+    "total_plays": 2878,
+    "avg_yards": 7.4,
+    "completion_pct": 64.0,
+    "sack_rate": 6.0,
+    "avg_time_to_throw": 2.6
+   },
+   "grid": [
+    {
+     "x_bin": 0,
+     "y_bin": 0.0,
+     "intensity": 0.202,
+     "plays_count": 15,
+     "success_rate": 0.447,
+     "avg_epa_or_yards": -0.04
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 5.33,
+     "intensity": 0.237,
+     "plays_count": 17,
+     "success_rate": 0.474,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 10.66,
+     "intensity": 0.322,
+     "plays_count": 20,
+     "success_rate": 0.444,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 15.99,
+     "intensity": 0.551,
+     "plays_count": 36,
+     "success_rate": 0.595,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 21.32,
+     "intensity": 0.702,
+     "plays_count": 43,
+     "success_rate": 0.581,
+     "avg_epa_or_yards": 0.6
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 26.65,
+     "intensity": 0.653,
+     "plays_count": 41,
+     "success_rate": 0.588,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 31.98,
+     "intensity": 0.541,
+     "plays_count": 33,
+     "success_rate": 0.561,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 37.31,
+     "intensity": 0.333,
+     "plays_count": 22,
+     "success_rate": 0.436,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 42.64,
+     "intensity": 0.27,
+     "plays_count": 17,
+     "success_rate": 0.468,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 47.97,
+     "intensity": 0.253,
+     "plays_count": 17,
+     "success_rate": 0.43,
+     "avg_epa_or_yards": 0.08
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 0.0,
+     "intensity": 0.286,
+     "plays_count": 18,
+     "success_rate": 0.505,
+     "avg_epa_or_yards": 0.22
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 5.33,
+     "intensity": 0.34,
+     "plays_count": 24,
+     "success_rate": 0.493,
+     "avg_epa_or_yards": 0.14
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 10.66,
+     "intensity": 0.46,
+     "plays_count": 29,
+     "success_rate": 0.498,
+     "avg_epa_or_yards": 0.31
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 15.99,
+     "intensity": 0.704,
+     "plays_count": 44,
+     "success_rate": 0.588,
+     "avg_epa_or_yards": 0.63
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 21.32,
+     "intensity": 0.987,
+     "plays_count": 61,
+     "success_rate": 0.743,
+     "avg_epa_or_yards": 0.9
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 26.65,
+     "intensity": 0.996,
+     "plays_count": 61,
+     "success_rate": 0.723,
+     "avg_epa_or_yards": 1.02
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 31.98,
+     "intensity": 0.706,
+     "plays_count": 45,
+     "success_rate": 0.602,
+     "avg_epa_or_yards": 0.57
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 37.31,
+     "intensity": 0.511,
+     "plays_count": 32,
+     "success_rate": 0.599,
+     "avg_epa_or_yards": 0.38
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 42.64,
+     "intensity": 0.355,
+     "plays_count": 24,
+     "success_rate": 0.523,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 47.97,
+     "intensity": 0.304,
+     "plays_count": 20,
+     "success_rate": 0.503,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 0.0,
+     "intensity": 0.241,
+     "plays_count": 18,
+     "success_rate": 0.41,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 5.33,
+     "intensity": 0.319,
+     "plays_count": 23,
+     "success_rate": 0.448,
+     "avg_epa_or_yards": 0.15
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 10.66,
+     "intensity": 0.346,
+     "plays_count": 25,
+     "success_rate": 0.535,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 15.99,
+     "intensity": 0.558,
+     "plays_count": 36,
+     "success_rate": 0.572,
+     "avg_epa_or_yards": 0.48
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 21.32,
+     "intensity": 0.709,
+     "plays_count": 44,
+     "success_rate": 0.621,
+     "avg_epa_or_yards": 0.71
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 26.65,
+     "intensity": 0.751,
+     "plays_count": 47,
+     "success_rate": 0.612,
+     "avg_epa_or_yards": 0.71
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 31.98,
+     "intensity": 0.576,
+     "plays_count": 37,
+     "success_rate": 0.585,
+     "avg_epa_or_yards": 0.53
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 37.31,
+     "intensity": 0.367,
+     "plays_count": 24,
+     "success_rate": 0.542,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 42.64,
+     "intensity": 0.298,
+     "plays_count": 21,
+     "success_rate": 0.463,
+     "avg_epa_or_yards": 0.12
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 47.97,
+     "intensity": 0.277,
+     "plays_count": 19,
+     "success_rate": 0.493,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 0.0,
+     "intensity": 0.145,
+     "plays_count": 10,
+     "success_rate": 0.408,
+     "avg_epa_or_yards": 0.0
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 5.33,
+     "intensity": 0.153,
+     "plays_count": 10,
+     "success_rate": 0.427,
+     "avg_epa_or_yards": 0.03
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 10.66,
+     "intensity": 0.172,
+     "plays_count": 13,
+     "success_rate": 0.376,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 15.99,
+     "intensity": 0.276,
+     "plays_count": 18,
+     "success_rate": 0.45,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 21.32,
+     "intensity": 0.3,
+     "plays_count": 22,
+     "success_rate": 0.489,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 26.65,
+     "intensity": 0.306,
+     "plays_count": 22,
+     "success_rate": 0.458,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 31.98,
+     "intensity": 0.228,
+     "plays_count": 16,
+     "success_rate": 0.455,
+     "avg_epa_or_yards": -0.01
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 37.31,
+     "intensity": 0.236,
+     "plays_count": 17,
+     "success_rate": 0.46,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 42.64,
+     "intensity": 0.199,
+     "plays_count": 15,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": 0.14
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 47.97,
+     "intensity": 0.192,
+     "plays_count": 14,
+     "success_rate": 0.417,
+     "avg_epa_or_yards": 0.08
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 0.0,
+     "intensity": 0.124,
+     "plays_count": 11,
+     "success_rate": 0.392,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 5.33,
+     "intensity": 0.109,
+     "plays_count": 8,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.06
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 10.66,
+     "intensity": 0.12,
+     "plays_count": 10,
+     "success_rate": 0.406,
+     "avg_epa_or_yards": -0.07
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 15.99,
+     "intensity": 0.17,
+     "plays_count": 12,
+     "success_rate": 0.445,
+     "avg_epa_or_yards": 0.02
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 21.32,
+     "intensity": 0.178,
+     "plays_count": 13,
+     "success_rate": 0.406,
+     "avg_epa_or_yards": -0.08
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 26.65,
+     "intensity": 0.156,
+     "plays_count": 10,
+     "success_rate": 0.404,
+     "avg_epa_or_yards": 0.08
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 31.98,
+     "intensity": 0.155,
+     "plays_count": 10,
+     "success_rate": 0.456,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 37.31,
+     "intensity": 0.106,
+     "plays_count": 8,
+     "success_rate": 0.388,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 42.64,
+     "intensity": 0.109,
+     "plays_count": 8,
+     "success_rate": 0.391,
+     "avg_epa_or_yards": -0.08
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 47.97,
+     "intensity": 0.085,
+     "plays_count": 8,
+     "success_rate": 0.366,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 0.0,
+     "intensity": 0.074,
+     "plays_count": 8,
+     "success_rate": 0.341,
+     "avg_epa_or_yards": -0.04
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 5.33,
+     "intensity": 0.104,
+     "plays_count": 9,
+     "success_rate": 0.409,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 10.66,
+     "intensity": 0.082,
+     "plays_count": 9,
+     "success_rate": 0.357,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 15.99,
+     "intensity": 0.113,
+     "plays_count": 7,
+     "success_rate": 0.401,
+     "avg_epa_or_yards": 0.03
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 21.32,
+     "intensity": 0.07,
+     "plays_count": 5,
+     "success_rate": 0.369,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 26.65,
+     "intensity": 0.103,
+     "plays_count": 9,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 31.98,
+     "intensity": 0.11,
+     "plays_count": 9,
+     "success_rate": 0.364,
+     "avg_epa_or_yards": -0.05
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 37.31,
+     "intensity": 0.117,
+     "plays_count": 9,
+     "success_rate": 0.417,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 42.64,
+     "intensity": 0.089,
+     "plays_count": 8,
+     "success_rate": 0.416,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 47.97,
+     "intensity": 0.121,
+     "plays_count": 8,
+     "success_rate": 0.436,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 0.0,
+     "intensity": 0.05,
+     "plays_count": 4,
+     "success_rate": 0.366,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 5.33,
+     "intensity": 0.017,
+     "plays_count": 4,
+     "success_rate": 0.359,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 10.66,
+     "intensity": 0.025,
+     "plays_count": 4,
+     "success_rate": 0.371,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 15.99,
+     "intensity": 0.022,
+     "plays_count": 3,
+     "success_rate": 0.393,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 21.32,
+     "intensity": 0.058,
+     "plays_count": 7,
+     "success_rate": 0.394,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 26.65,
+     "intensity": 0.08,
+     "plays_count": 7,
+     "success_rate": 0.34,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 31.98,
+     "intensity": 0.074,
+     "plays_count": 5,
+     "success_rate": 0.36,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 37.31,
+     "intensity": 0.013,
+     "plays_count": 4,
+     "success_rate": 0.356,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 42.64,
+     "intensity": 0.064,
+     "plays_count": 4,
+     "success_rate": 0.364,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 47.97,
+     "intensity": 0.021,
+     "plays_count": 4,
+     "success_rate": 0.378,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.355,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 5.33,
+     "intensity": 0.031,
+     "plays_count": 2,
+     "success_rate": 0.344,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 10.66,
+     "intensity": 0.025,
+     "plays_count": 2,
+     "success_rate": 0.346,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 15.99,
+     "intensity": 0.047,
+     "plays_count": 3,
+     "success_rate": 0.4,
+     "avg_epa_or_yards": -0.05
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 26.65,
+     "intensity": 0.038,
+     "plays_count": 4,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 31.98,
+     "intensity": 0.035,
+     "plays_count": 2,
+     "success_rate": 0.317,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 37.31,
+     "intensity": 0.022,
+     "plays_count": 2,
+     "success_rate": 0.336,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 42.64,
+     "intensity": 0.016,
+     "plays_count": 2,
+     "success_rate": 0.352,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 47.97,
+     "intensity": 0.047,
+     "plays_count": 6,
+     "success_rate": 0.374,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.378,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 5.33,
+     "intensity": 0.041,
+     "plays_count": 4,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.355,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 15.99,
+     "intensity": 0.039,
+     "plays_count": 3,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 21.32,
+     "intensity": 0.041,
+     "plays_count": 4,
+     "success_rate": 0.416,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 31.98,
+     "intensity": 0.044,
+     "plays_count": 7,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 37.31,
+     "intensity": 0.003,
+     "plays_count": 3,
+     "success_rate": 0.36,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.363,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 47.97,
+     "intensity": 0.013,
+     "plays_count": 1,
+     "success_rate": 0.326,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.335,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 5.33,
+     "intensity": 0.034,
+     "plays_count": 4,
+     "success_rate": 0.346,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 10.66,
+     "intensity": 0.005,
+     "plays_count": 1,
+     "success_rate": 0.329,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 15.99,
+     "intensity": 0.023,
+     "plays_count": 5,
+     "success_rate": 0.377,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.379,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 26.65,
+     "intensity": 0.003,
+     "plays_count": 4,
+     "success_rate": 0.388,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.325,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.376,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 42.64,
+     "intensity": 0.002,
+     "plays_count": 2,
+     "success_rate": 0.358,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 47.97,
+     "intensity": 0.001,
+     "plays_count": 2,
+     "success_rate": 0.345,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.309,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 5.33,
+     "intensity": 0.039,
+     "plays_count": 3,
+     "success_rate": 0.409,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.333,
+     "avg_epa_or_yards": -0.3
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 15.99,
+     "intensity": 0.027,
+     "plays_count": 5,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 21.32,
+     "intensity": 0.033,
+     "plays_count": 4,
+     "success_rate": 0.38,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.353,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.321,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 37.31,
+     "intensity": 0.005,
+     "plays_count": 4,
+     "success_rate": 0.336,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.305,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.346,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 5.33,
+     "intensity": 0.035,
+     "plays_count": 6,
+     "success_rate": 0.358,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 10.66,
+     "intensity": 0.006,
+     "plays_count": 4,
+     "success_rate": 0.323,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.365,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.327,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.337,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.34,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 37.31,
+     "intensity": 0.027,
+     "plays_count": 4,
+     "success_rate": 0.334,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.3,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 47.97,
+     "intensity": 0.012,
+     "plays_count": 1,
+     "success_rate": 0.328,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 0.0,
+     "intensity": 0.015,
+     "plays_count": 1,
+     "success_rate": 0.375,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.342,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 10.66,
+     "intensity": 0.026,
+     "plays_count": 2,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 15.99,
+     "intensity": 0.037,
+     "plays_count": 3,
+     "success_rate": 0.346,
+     "avg_epa_or_yards": -0.08
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 21.32,
+     "intensity": 0.011,
+     "plays_count": 1,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.301,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 37.31,
+     "intensity": 0.024,
+     "plays_count": 3,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.341,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 47.97,
+     "intensity": 0.018,
+     "plays_count": 4,
+     "success_rate": 0.316,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.359,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 5.33,
+     "intensity": 0.033,
+     "plays_count": 6,
+     "success_rate": 0.345,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 10.66,
+     "intensity": 0.003,
+     "plays_count": 1,
+     "success_rate": 0.31,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 15.99,
+     "intensity": 0.011,
+     "plays_count": 3,
+     "success_rate": 0.365,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.385,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.352,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 31.98,
+     "intensity": 0.028,
+     "plays_count": 5,
+     "success_rate": 0.341,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 37.31,
+     "intensity": 0.036,
+     "plays_count": 6,
+     "success_rate": 0.41,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 42.64,
+     "intensity": 0.013,
+     "plays_count": 1,
+     "success_rate": 0.355,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 47.97,
+     "intensity": 0.021,
+     "plays_count": 3,
+     "success_rate": 0.406,
+     "avg_epa_or_yards": -0.08
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.313,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 5.33,
+     "intensity": 0.027,
+     "plays_count": 4,
+     "success_rate": 0.348,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 15.99,
+     "intensity": 0.017,
+     "plays_count": 1,
+     "success_rate": 0.313,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.306,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.363,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.37,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 37.31,
+     "intensity": 0.009,
+     "plays_count": 3,
+     "success_rate": 0.365,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 42.64,
+     "intensity": 0.013,
+     "plays_count": 2,
+     "success_rate": 0.356,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 47.97,
+     "intensity": 0.009,
+     "plays_count": 4,
+     "success_rate": 0.357,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.383,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.37,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.306,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 15.99,
+     "intensity": 0.004,
+     "plays_count": 2,
+     "success_rate": 0.347,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.374,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 26.65,
+     "intensity": 0.002,
+     "plays_count": 1,
+     "success_rate": 0.372,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 37.31,
+     "intensity": 0.038,
+     "plays_count": 5,
+     "success_rate": 0.387,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.378,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 47.97,
+     "intensity": 0.025,
+     "plays_count": 5,
+     "success_rate": 0.387,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 0.0,
+     "intensity": 0.014,
+     "plays_count": 4,
+     "success_rate": 0.333,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 5.33,
+     "intensity": 0.024,
+     "plays_count": 4,
+     "success_rate": 0.367,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 10.66,
+     "intensity": 0.033,
+     "plays_count": 4,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.337,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.357,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.351,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.324,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 37.31,
+     "intensity": 0.002,
+     "plays_count": 2,
+     "success_rate": 0.316,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 42.64,
+     "intensity": 0.025,
+     "plays_count": 5,
+     "success_rate": 0.365,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.342,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.372,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.337,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.318,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 15.99,
+     "intensity": 0.005,
+     "plays_count": 4,
+     "success_rate": 0.397,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 21.32,
+     "intensity": 0.039,
+     "plays_count": 4,
+     "success_rate": 0.344,
+     "avg_epa_or_yards": -0.08
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.355,
+     "avg_epa_or_yards": -0.3
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 31.98,
+     "intensity": 0.015,
+     "plays_count": 2,
+     "success_rate": 0.362,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 37.31,
+     "intensity": 0.028,
+     "plays_count": 4,
+     "success_rate": 0.358,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 42.64,
+     "intensity": 0.012,
+     "plays_count": 3,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 47.97,
+     "intensity": 0.029,
+     "plays_count": 5,
+     "success_rate": 0.388,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 0.0,
+     "intensity": 0.021,
+     "plays_count": 1,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.3,
+     "avg_epa_or_yards": -0.17
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 15.99,
+     "intensity": 0.004,
+     "plays_count": 4,
+     "success_rate": 0.374,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.324,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.4,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.392,
+     "avg_epa_or_yards": -0.12
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.37,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.308,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 47.97,
+     "intensity": 0.023,
+     "plays_count": 2,
+     "success_rate": 0.391,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 0.0,
+     "intensity": 0.005,
+     "plays_count": 3,
+     "success_rate": 0.346,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 5.33,
+     "intensity": 0.029,
+     "plays_count": 3,
+     "success_rate": 0.338,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.37,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 15.99,
+     "intensity": 0.002,
+     "plays_count": 1,
+     "success_rate": 0.328,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.378,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.316,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 31.98,
+     "intensity": 0.029,
+     "plays_count": 3,
+     "success_rate": 0.365,
+     "avg_epa_or_yards": -0.07
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 37.31,
+     "intensity": 0.031,
+     "plays_count": 3,
+     "success_rate": 0.343,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.316,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.37,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.333,
+     "avg_epa_or_yards": -0.28
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 5.33,
+     "intensity": 0.034,
+     "plays_count": 3,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.16
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 10.66,
+     "intensity": 0.032,
+     "plays_count": 5,
+     "success_rate": 0.339,
+     "avg_epa_or_yards": -0.06
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 15.99,
+     "intensity": 0.005,
+     "plays_count": 0,
+     "success_rate": 0.342,
+     "avg_epa_or_yards": -0.2
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.325,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 26.65,
+     "intensity": 0.034,
+     "plays_count": 5,
+     "success_rate": 0.328,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.398,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 37.31,
+     "intensity": 0.037,
+     "plays_count": 6,
+     "success_rate": 0.352,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 42.64,
+     "intensity": 0.007,
+     "plays_count": 3,
+     "success_rate": 0.361,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 47.97,
+     "intensity": 0.02,
+     "plays_count": 4,
+     "success_rate": 0.31,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 0.0,
+     "intensity": 0.017,
+     "plays_count": 5,
+     "success_rate": 0.351,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.383,
+     "avg_epa_or_yards": -0.23
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 10.66,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.346,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.382,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 0,
+     "success_rate": 0.368,
+     "avg_epa_or_yards": -0.27
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 26.65,
+     "intensity": 0.027,
+     "plays_count": 2,
+     "success_rate": 0.329,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.303,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 37.31,
+     "intensity": 0.032,
+     "plays_count": 3,
+     "success_rate": 0.342,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.306,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 47.97,
+     "intensity": 0.02,
+     "plays_count": 2,
+     "success_rate": 0.328,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 0.0,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.363,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 5.33,
+     "intensity": 0.039,
+     "plays_count": 6,
+     "success_rate": 0.415,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 10.66,
+     "intensity": 0.018,
+     "plays_count": 3,
+     "success_rate": 0.362,
+     "avg_epa_or_yards": -0.18
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.35,
+     "avg_epa_or_yards": -0.22
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 21.32,
+     "intensity": 0.038,
+     "plays_count": 3,
+     "success_rate": 0.347,
+     "avg_epa_or_yards": -0.21
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 26.65,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.378,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.353,
+     "avg_epa_or_yards": -0.15
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 37.31,
+     "intensity": 0.027,
+     "plays_count": 6,
+     "success_rate": 0.408,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 42.64,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.327,
+     "avg_epa_or_yards": -0.14
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 47.97,
+     "intensity": 0.022,
+     "plays_count": 5,
+     "success_rate": 0.314,
+     "avg_epa_or_yards": -0.07
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 0.0,
+     "intensity": 0.036,
+     "plays_count": 3,
+     "success_rate": 0.399,
+     "avg_epa_or_yards": -0.1
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 5.33,
+     "intensity": 0.0,
+     "plays_count": 1,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": -0.13
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 10.66,
+     "intensity": 0.022,
+     "plays_count": 2,
+     "success_rate": 0.368,
+     "avg_epa_or_yards": -0.11
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 15.99,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.391,
+     "avg_epa_or_yards": -0.29
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 21.32,
+     "intensity": 0.0,
+     "plays_count": 3,
+     "success_rate": 0.395,
+     "avg_epa_or_yards": -0.19
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 26.65,
+     "intensity": 0.039,
+     "plays_count": 5,
+     "success_rate": 0.335,
+     "avg_epa_or_yards": -0.06
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 31.98,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.349,
+     "avg_epa_or_yards": -0.24
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 37.31,
+     "intensity": 0.0,
+     "plays_count": 2,
+     "success_rate": 0.309,
+     "avg_epa_or_yards": -0.25
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 42.64,
+     "intensity": 0.035,
+     "plays_count": 3,
+     "success_rate": 0.367,
+     "avg_epa_or_yards": -0.26
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 47.97,
+     "intensity": 0.0,
+     "plays_count": 4,
+     "success_rate": 0.32,
+     "avg_epa_or_yards": -0.27
+    }
+   ],
+   "top_players": [
+    {
+     "nflId": 40200,
+     "name": "Chris Evans",
+     "position": "QB",
+     "metric_value": 30.36,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40201,
+     "name": "Frank Lopez",
+     "position": "WR",
+     "metric_value": 29.36,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40202,
+     "name": "Ian Turner",
+     "position": "TE",
+     "metric_value": 28.22,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40203,
+     "name": "Luke Foster",
+     "position": "RB",
+     "metric_value": 26.86,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40204,
+     "name": "Owen Mills",
+     "position": "CB",
+     "metric_value": 25.61,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40205,
+     "name": "Ryan Underwood",
+     "position": "S",
+     "metric_value": 24.79,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40206,
+     "name": "Vic Grant",
+     "position": "QB",
+     "metric_value": 23.86,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40207,
+     "name": "Ben Nolan",
+     "position": "WR",
+     "metric_value": 22.69,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40208,
+     "name": "Eli Vance",
+     "position": "TE",
+     "metric_value": 21.62,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40209,
+     "name": "Hank Hayes",
+     "position": "RB",
+     "metric_value": 20.53,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40210,
+     "name": "Kyle Ortiz",
+     "position": "CB",
+     "metric_value": 19.48,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40211,
+     "name": "Nate Wood",
+     "position": "S",
+     "metric_value": 18.09,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40212,
+     "name": "Quinn Irwin",
+     "position": "QB",
+     "metric_value": 17.27,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40213,
+     "name": "Tom Price",
+     "position": "WR",
+     "metric_value": 15.9,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40214,
+     "name": "Alex Carter",
+     "position": "TE",
+     "metric_value": 14.65,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40215,
+     "name": "Dan Jones",
+     "position": "RB",
+     "metric_value": 13.65,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40216,
+     "name": "Greg Reed",
+     "position": "CB",
+     "metric_value": 12.47,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40217,
+     "name": "Jack Davis",
+     "position": "S",
+     "metric_value": 11.38,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40218,
+     "name": "Matt Keller",
+     "position": "QB",
+     "metric_value": 10.67,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40219,
+     "name": "Paul Stone",
+     "position": "WR",
+     "metric_value": 9.5,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40220,
+     "name": "Sam Evans",
+     "position": "TE",
+     "metric_value": 8.48,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40221,
+     "name": "Will Lopez",
+     "position": "RB",
+     "metric_value": 7.22,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40222,
+     "name": "Chris Turner",
+     "position": "CB",
+     "metric_value": 5.89,
+     "metric_label": "Presiones"
+    },
+    {
+     "nflId": 40223,
+     "name": "Frank Foster",
+     "position": "S",
+     "metric_value": 5.18,
+     "metric_label": "Presiones"
+    }
+   ],
+   "yards_by_down": [
+    {
+     "down": 1,
+     "avg_yards": 7.0
+    },
+    {
+     "down": 2,
+     "avg_yards": 6.1
+    },
+    {
+     "down": 3,
+     "avg_yards": 5.2
+    },
+    {
+     "down": 4,
+     "avg_yards": 4.3
+    }
+   ]
+  },
+  "separation": {
+   "meta": {
+    "total_plays": 12138,
+    "avg_yards": 8.1,
+    "completion_pct": 66.0,
+    "sack_rate": 6.5,
+    "avg_time_to_throw": 2.7
+   },
+   "grid": [
+    {
+     "x_bin": 0,
+     "y_bin": 0.0,
+     "intensity": 0.165,
+     "plays_count": 13,
+     "success_rate": 0.435,
+     "avg_epa_or_yards": -0.04
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 5.33,
+     "intensity": 0.184,
+     "plays_count": 13,
+     "success_rate": 0.39,
+     "avg_epa_or_yards": 0.04
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 10.66,
+     "intensity": 0.173,
+     "plays_count": 14,
+     "success_rate": 0.455,
+     "avg_epa_or_yards": 0.04
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 15.99,
+     "intensity": 0.128,
+     "plays_count": 10,
+     "success_rate": 0.378,
+     "avg_epa_or_yards": -0.06
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 21.32,
+     "intensity": 0.157,
+     "plays_count": 10,
+     "success_rate": 0.441,
+     "avg_epa_or_yards": 0.04
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 26.65,
+     "intensity": 0.124,
+     "plays_count": 7,
+     "success_rate": 0.441,
+     "avg_epa_or_yards": -0.02
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 31.98,
+     "intensity": 0.135,
+     "plays_count": 10,
+     "success_rate": 0.355,
+     "avg_epa_or_yards": -0.09
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 37.31,
+     "intensity": 0.165,
+     "plays_count": 13,
+     "success_rate": 0.397,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 42.64,
+     "intensity": 0.12,
+     "plays_count": 10,
+     "success_rate": 0.39,
+     "avg_epa_or_yards": -0.08
+    },
+    {
+     "x_bin": 0,
+     "y_bin": 47.97,
+     "intensity": 0.168,
+     "plays_count": 11,
+     "success_rate": 0.393,
+     "avg_epa_or_yards": -0.0
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 0.0,
+     "intensity": 0.2,
+     "plays_count": 15,
+     "success_rate": 0.462,
+     "avg_epa_or_yards": 0.02
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 5.33,
+     "intensity": 0.202,
+     "plays_count": 13,
+     "success_rate": 0.432,
+     "avg_epa_or_yards": 0.07
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 10.66,
+     "intensity": 0.159,
+     "plays_count": 13,
+     "success_rate": 0.401,
+     "avg_epa_or_yards": 0.02
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 15.99,
+     "intensity": 0.208,
+     "plays_count": 15,
+     "success_rate": 0.413,
+     "avg_epa_or_yards": -0.03
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 21.32,
+     "intensity": 0.207,
+     "plays_count": 13,
+     "success_rate": 0.482,
+     "avg_epa_or_yards": 0.08
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 26.65,
+     "intensity": 0.132,
+     "plays_count": 11,
+     "success_rate": 0.379,
+     "avg_epa_or_yards": 0.0
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 31.98,
+     "intensity": 0.177,
+     "plays_count": 14,
+     "success_rate": 0.401,
+     "avg_epa_or_yards": -0.06
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 37.31,
+     "intensity": 0.201,
+     "plays_count": 15,
+     "success_rate": 0.47,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 42.64,
+     "intensity": 0.203,
+     "plays_count": 15,
+     "success_rate": 0.441,
+     "avg_epa_or_yards": 0.08
+    },
+    {
+     "x_bin": 5,
+     "y_bin": 47.97,
+     "intensity": 0.142,
+     "plays_count": 11,
+     "success_rate": 0.429,
+     "avg_epa_or_yards": 0.0
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 0.0,
+     "intensity": 0.188,
+     "plays_count": 15,
+     "success_rate": 0.401,
+     "avg_epa_or_yards": 0.01
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 5.33,
+     "intensity": 0.221,
+     "plays_count": 15,
+     "success_rate": 0.392,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 10.66,
+     "intensity": 0.161,
+     "plays_count": 12,
+     "success_rate": 0.384,
+     "avg_epa_or_yards": 0.04
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 15.99,
+     "intensity": 0.213,
+     "plays_count": 14,
+     "success_rate": 0.439,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 21.32,
+     "intensity": 0.174,
+     "plays_count": 14,
+     "success_rate": 0.437,
+     "avg_epa_or_yards": 0.01
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 26.65,
+     "intensity": 0.234,
+     "plays_count": 17,
+     "success_rate": 0.478,
+     "avg_epa_or_yards": 0.16
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 31.98,
+     "intensity": 0.167,
+     "plays_count": 11,
+     "success_rate": 0.376,
+     "avg_epa_or_yards": -0.07
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 37.31,
+     "intensity": 0.221,
+     "plays_count": 14,
+     "success_rate": 0.469,
+     "avg_epa_or_yards": 0.12
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 42.64,
+     "intensity": 0.154,
+     "plays_count": 10,
+     "success_rate": 0.429,
+     "avg_epa_or_yards": -0.05
+    },
+    {
+     "x_bin": 10,
+     "y_bin": 47.97,
+     "intensity": 0.199,
+     "plays_count": 12,
+     "success_rate": 0.415,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 0.0,
+     "intensity": 0.214,
+     "plays_count": 14,
+     "success_rate": 0.464,
+     "avg_epa_or_yards": 0.02
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 5.33,
+     "intensity": 0.24,
+     "plays_count": 15,
+     "success_rate": 0.425,
+     "avg_epa_or_yards": 0.16
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 10.66,
+     "intensity": 0.211,
+     "plays_count": 15,
+     "success_rate": 0.471,
+     "avg_epa_or_yards": 0.07
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 15.99,
+     "intensity": 0.202,
+     "plays_count": 16,
+     "success_rate": 0.388,
+     "avg_epa_or_yards": 0.12
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 21.32,
+     "intensity": 0.203,
+     "plays_count": 14,
+     "success_rate": 0.468,
+     "avg_epa_or_yards": 0.02
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 26.65,
+     "intensity": 0.189,
+     "plays_count": 13,
+     "success_rate": 0.381,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 31.98,
+     "intensity": 0.201,
+     "plays_count": 13,
+     "success_rate": 0.4,
+     "avg_epa_or_yards": 0.02
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 37.31,
+     "intensity": 0.184,
+     "plays_count": 13,
+     "success_rate": 0.464,
+     "avg_epa_or_yards": 0.01
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 42.64,
+     "intensity": 0.169,
+     "plays_count": 11,
+     "success_rate": 0.439,
+     "avg_epa_or_yards": 0.06
+    },
+    {
+     "x_bin": 15,
+     "y_bin": 47.97,
+     "intensity": 0.194,
+     "plays_count": 14,
+     "success_rate": 0.441,
+     "avg_epa_or_yards": -0.03
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 0.0,
+     "intensity": 0.243,
+     "plays_count": 17,
+     "success_rate": 0.398,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 5.33,
+     "intensity": 0.271,
+     "plays_count": 19,
+     "success_rate": 0.425,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 10.66,
+     "intensity": 0.273,
+     "plays_count": 18,
+     "success_rate": 0.486,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 15.99,
+     "intensity": 0.249,
+     "plays_count": 17,
+     "success_rate": 0.463,
+     "avg_epa_or_yards": 0.08
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 21.32,
+     "intensity": 0.244,
+     "plays_count": 18,
+     "success_rate": 0.436,
+     "avg_epa_or_yards": 0.0
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 26.65,
+     "intensity": 0.257,
+     "plays_count": 16,
+     "success_rate": 0.44,
+     "avg_epa_or_yards": 0.01
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 31.98,
+     "intensity": 0.218,
+     "plays_count": 14,
+     "success_rate": 0.47,
+     "avg_epa_or_yards": -0.0
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 37.31,
+     "intensity": 0.241,
+     "plays_count": 17,
+     "success_rate": 0.459,
+     "avg_epa_or_yards": 0.04
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 42.64,
+     "intensity": 0.263,
+     "plays_count": 19,
+     "success_rate": 0.44,
+     "avg_epa_or_yards": 0.04
+    },
+    {
+     "x_bin": 20,
+     "y_bin": 47.97,
+     "intensity": 0.237,
+     "plays_count": 16,
+     "success_rate": 0.454,
+     "avg_epa_or_yards": 0.02
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 0.0,
+     "intensity": 0.263,
+     "plays_count": 19,
+     "success_rate": 0.435,
+     "avg_epa_or_yards": 0.07
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 5.33,
+     "intensity": 0.232,
+     "plays_count": 17,
+     "success_rate": 0.453,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 10.66,
+     "intensity": 0.237,
+     "plays_count": 18,
+     "success_rate": 0.494,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 15.99,
+     "intensity": 0.308,
+     "plays_count": 22,
+     "success_rate": 0.459,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 21.32,
+     "intensity": 0.269,
+     "plays_count": 20,
+     "success_rate": 0.499,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 26.65,
+     "intensity": 0.271,
+     "plays_count": 17,
+     "success_rate": 0.481,
+     "avg_epa_or_yards": 0.05
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 31.98,
+     "intensity": 0.316,
+     "plays_count": 22,
+     "success_rate": 0.486,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 37.31,
+     "intensity": 0.237,
+     "plays_count": 16,
+     "success_rate": 0.46,
+     "avg_epa_or_yards": -0.01
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 42.64,
+     "intensity": 0.233,
+     "plays_count": 17,
+     "success_rate": 0.419,
+     "avg_epa_or_yards": 0.09
+    },
+    {
+     "x_bin": 25,
+     "y_bin": 47.97,
+     "intensity": 0.238,
+     "plays_count": 14,
+     "success_rate": 0.495,
+     "avg_epa_or_yards": 0.12
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 0.0,
+     "intensity": 0.29,
+     "plays_count": 20,
+     "success_rate": 0.418,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 5.33,
+     "intensity": 0.29,
+     "plays_count": 19,
+     "success_rate": 0.454,
+     "avg_epa_or_yards": 0.16
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 10.66,
+     "intensity": 0.332,
+     "plays_count": 22,
+     "success_rate": 0.448,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 15.99,
+     "intensity": 0.279,
+     "plays_count": 19,
+     "success_rate": 0.442,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 21.32,
+     "intensity": 0.326,
+     "plays_count": 22,
+     "success_rate": 0.457,
+     "avg_epa_or_yards": 0.21
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 26.65,
+     "intensity": 0.328,
+     "plays_count": 20,
+     "success_rate": 0.514,
+     "avg_epa_or_yards": 0.11
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 31.98,
+     "intensity": 0.311,
+     "plays_count": 22,
+     "success_rate": 0.436,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 37.31,
+     "intensity": 0.263,
+     "plays_count": 16,
+     "success_rate": 0.425,
+     "avg_epa_or_yards": 0.06
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 42.64,
+     "intensity": 0.322,
+     "plays_count": 20,
+     "success_rate": 0.481,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 30,
+     "y_bin": 47.97,
+     "intensity": 0.245,
+     "plays_count": 18,
+     "success_rate": 0.428,
+     "avg_epa_or_yards": 0.0
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 0.0,
+     "intensity": 0.328,
+     "plays_count": 22,
+     "success_rate": 0.452,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 5.33,
+     "intensity": 0.286,
+     "plays_count": 19,
+     "success_rate": 0.415,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 10.66,
+     "intensity": 0.299,
+     "plays_count": 22,
+     "success_rate": 0.503,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 15.99,
+     "intensity": 0.321,
+     "plays_count": 20,
+     "success_rate": 0.438,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 21.32,
+     "intensity": 0.328,
+     "plays_count": 23,
+     "success_rate": 0.441,
+     "avg_epa_or_yards": 0.14
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 26.65,
+     "intensity": 0.369,
+     "plays_count": 23,
+     "success_rate": 0.546,
+     "avg_epa_or_yards": 0.2
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 31.98,
+     "intensity": 0.363,
+     "plays_count": 24,
+     "success_rate": 0.455,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 37.31,
+     "intensity": 0.349,
+     "plays_count": 21,
+     "success_rate": 0.469,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 42.64,
+     "intensity": 0.295,
+     "plays_count": 19,
+     "success_rate": 0.492,
+     "avg_epa_or_yards": 0.07
+    },
+    {
+     "x_bin": 35,
+     "y_bin": 47.97,
+     "intensity": 0.279,
+     "plays_count": 20,
+     "success_rate": 0.416,
+     "avg_epa_or_yards": 0.21
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 0.0,
+     "intensity": 0.301,
+     "plays_count": 21,
+     "success_rate": 0.437,
+     "avg_epa_or_yards": 0.13
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 5.33,
+     "intensity": 0.306,
+     "plays_count": 20,
+     "success_rate": 0.485,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 10.66,
+     "intensity": 0.368,
+     "plays_count": 22,
+     "success_rate": 0.529,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 15.99,
+     "intensity": 0.406,
+     "plays_count": 26,
+     "success_rate": 0.559,
+     "avg_epa_or_yards": 0.24
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 21.32,
+     "intensity": 0.36,
+     "plays_count": 23,
+     "success_rate": 0.529,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 26.65,
+     "intensity": 0.377,
+     "plays_count": 25,
+     "success_rate": 0.53,
+     "avg_epa_or_yards": 0.18
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 31.98,
+     "intensity": 0.373,
+     "plays_count": 25,
+     "success_rate": 0.455,
+     "avg_epa_or_yards": 0.34
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 37.31,
+     "intensity": 0.346,
+     "plays_count": 21,
+     "success_rate": 0.48,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 42.64,
+     "intensity": 0.355,
+     "plays_count": 25,
+     "success_rate": 0.51,
+     "avg_epa_or_yards": 0.16
+    },
+    {
+     "x_bin": 40,
+     "y_bin": 47.97,
+     "intensity": 0.33,
+     "plays_count": 21,
+     "success_rate": 0.468,
+     "avg_epa_or_yards": 0.1
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 0.0,
+     "intensity": 0.324,
+     "plays_count": 22,
+     "success_rate": 0.514,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 5.33,
+     "intensity": 0.334,
+     "plays_count": 21,
+     "success_rate": 0.525,
+     "avg_epa_or_yards": 0.12
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 10.66,
+     "intensity": 0.368,
+     "plays_count": 24,
+     "success_rate": 0.452,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 15.99,
+     "intensity": 0.397,
+     "plays_count": 25,
+     "success_rate": 0.529,
+     "avg_epa_or_yards": 0.31
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 21.32,
+     "intensity": 0.391,
+     "plays_count": 27,
+     "success_rate": 0.514,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 26.65,
+     "intensity": 0.452,
+     "plays_count": 31,
+     "success_rate": 0.548,
+     "avg_epa_or_yards": 0.31
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 31.98,
+     "intensity": 0.398,
+     "plays_count": 26,
+     "success_rate": 0.529,
+     "avg_epa_or_yards": 0.2
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 37.31,
+     "intensity": 0.386,
+     "plays_count": 26,
+     "success_rate": 0.479,
+     "avg_epa_or_yards": 0.23
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 42.64,
+     "intensity": 0.371,
+     "plays_count": 25,
+     "success_rate": 0.487,
+     "avg_epa_or_yards": 0.31
+    },
+    {
+     "x_bin": 45,
+     "y_bin": 47.97,
+     "intensity": 0.361,
+     "plays_count": 24,
+     "success_rate": 0.543,
+     "avg_epa_or_yards": 0.14
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 0.0,
+     "intensity": 0.342,
+     "plays_count": 23,
+     "success_rate": 0.453,
+     "avg_epa_or_yards": 0.28
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 5.33,
+     "intensity": 0.405,
+     "plays_count": 28,
+     "success_rate": 0.549,
+     "avg_epa_or_yards": 0.2
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 10.66,
+     "intensity": 0.402,
+     "plays_count": 26,
+     "success_rate": 0.485,
+     "avg_epa_or_yards": 0.38
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 15.99,
+     "intensity": 0.48,
+     "plays_count": 29,
+     "success_rate": 0.514,
+     "avg_epa_or_yards": 0.4
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 21.32,
+     "intensity": 0.451,
+     "plays_count": 29,
+     "success_rate": 0.504,
+     "avg_epa_or_yards": 0.33
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 26.65,
+     "intensity": 0.457,
+     "plays_count": 31,
+     "success_rate": 0.528,
+     "avg_epa_or_yards": 0.42
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 31.98,
+     "intensity": 0.43,
+     "plays_count": 28,
+     "success_rate": 0.484,
+     "avg_epa_or_yards": 0.32
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 37.31,
+     "intensity": 0.425,
+     "plays_count": 28,
+     "success_rate": 0.48,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 42.64,
+     "intensity": 0.379,
+     "plays_count": 25,
+     "success_rate": 0.452,
+     "avg_epa_or_yards": 0.17
+    },
+    {
+     "x_bin": 50,
+     "y_bin": 47.97,
+     "intensity": 0.356,
+     "plays_count": 24,
+     "success_rate": 0.504,
+     "avg_epa_or_yards": 0.19
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 0.0,
+     "intensity": 0.367,
+     "plays_count": 24,
+     "success_rate": 0.468,
+     "avg_epa_or_yards": 0.27
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 5.33,
+     "intensity": 0.452,
+     "plays_count": 31,
+     "success_rate": 0.517,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 10.66,
+     "intensity": 0.475,
+     "plays_count": 29,
+     "success_rate": 0.535,
+     "avg_epa_or_yards": 0.38
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 15.99,
+     "intensity": 0.452,
+     "plays_count": 30,
+     "success_rate": 0.528,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 21.32,
+     "intensity": 0.486,
+     "plays_count": 32,
+     "success_rate": 0.506,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 26.65,
+     "intensity": 0.502,
+     "plays_count": 31,
+     "success_rate": 0.535,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 31.98,
+     "intensity": 0.523,
+     "plays_count": 35,
+     "success_rate": 0.538,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 37.31,
+     "intensity": 0.468,
+     "plays_count": 31,
+     "success_rate": 0.492,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 42.64,
+     "intensity": 0.436,
+     "plays_count": 27,
+     "success_rate": 0.546,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 55,
+     "y_bin": 47.97,
+     "intensity": 0.429,
+     "plays_count": 26,
+     "success_rate": 0.533,
+     "avg_epa_or_yards": 0.25
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 0.0,
+     "intensity": 0.455,
+     "plays_count": 31,
+     "success_rate": 0.521,
+     "avg_epa_or_yards": 0.34
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 5.33,
+     "intensity": 0.456,
+     "plays_count": 31,
+     "success_rate": 0.554,
+     "avg_epa_or_yards": 0.27
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 10.66,
+     "intensity": 0.498,
+     "plays_count": 32,
+     "success_rate": 0.592,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 15.99,
+     "intensity": 0.552,
+     "plays_count": 35,
+     "success_rate": 0.598,
+     "avg_epa_or_yards": 0.45
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 21.32,
+     "intensity": 0.535,
+     "plays_count": 35,
+     "success_rate": 0.61,
+     "avg_epa_or_yards": 0.37
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 26.65,
+     "intensity": 0.568,
+     "plays_count": 36,
+     "success_rate": 0.58,
+     "avg_epa_or_yards": 0.39
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 31.98,
+     "intensity": 0.52,
+     "plays_count": 35,
+     "success_rate": 0.592,
+     "avg_epa_or_yards": 0.42
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 37.31,
+     "intensity": 0.462,
+     "plays_count": 30,
+     "success_rate": 0.577,
+     "avg_epa_or_yards": 0.29
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 42.64,
+     "intensity": 0.495,
+     "plays_count": 32,
+     "success_rate": 0.571,
+     "avg_epa_or_yards": 0.32
+    },
+    {
+     "x_bin": 60,
+     "y_bin": 47.97,
+     "intensity": 0.447,
+     "plays_count": 28,
+     "success_rate": 0.539,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 0.0,
+     "intensity": 0.458,
+     "plays_count": 30,
+     "success_rate": 0.522,
+     "avg_epa_or_yards": 0.45
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 5.33,
+     "intensity": 0.526,
+     "plays_count": 35,
+     "success_rate": 0.587,
+     "avg_epa_or_yards": 0.39
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 10.66,
+     "intensity": 0.554,
+     "plays_count": 37,
+     "success_rate": 0.619,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 15.99,
+     "intensity": 0.574,
+     "plays_count": 35,
+     "success_rate": 0.571,
+     "avg_epa_or_yards": 0.53
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 21.32,
+     "intensity": 0.586,
+     "plays_count": 38,
+     "success_rate": 0.564,
+     "avg_epa_or_yards": 0.54
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 26.65,
+     "intensity": 0.546,
+     "plays_count": 36,
+     "success_rate": 0.59,
+     "avg_epa_or_yards": 0.54
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 31.98,
+     "intensity": 0.58,
+     "plays_count": 37,
+     "success_rate": 0.552,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 37.31,
+     "intensity": 0.504,
+     "plays_count": 31,
+     "success_rate": 0.536,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 42.64,
+     "intensity": 0.533,
+     "plays_count": 36,
+     "success_rate": 0.578,
+     "avg_epa_or_yards": 0.53
+    },
+    {
+     "x_bin": 65,
+     "y_bin": 47.97,
+     "intensity": 0.496,
+     "plays_count": 32,
+     "success_rate": 0.568,
+     "avg_epa_or_yards": 0.36
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 0.0,
+     "intensity": 0.511,
+     "plays_count": 31,
+     "success_rate": 0.54,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 5.33,
+     "intensity": 0.496,
+     "plays_count": 32,
+     "success_rate": 0.565,
+     "avg_epa_or_yards": 0.38
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 10.66,
+     "intensity": 0.56,
+     "plays_count": 37,
+     "success_rate": 0.608,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 15.99,
+     "intensity": 0.637,
+     "plays_count": 42,
+     "success_rate": 0.636,
+     "avg_epa_or_yards": 0.57
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 21.32,
+     "intensity": 0.611,
+     "plays_count": 37,
+     "success_rate": 0.559,
+     "avg_epa_or_yards": 0.57
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 26.65,
+     "intensity": 0.656,
+     "plays_count": 40,
+     "success_rate": 0.637,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 31.98,
+     "intensity": 0.608,
+     "plays_count": 38,
+     "success_rate": 0.568,
+     "avg_epa_or_yards": 0.6
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 37.31,
+     "intensity": 0.592,
+     "plays_count": 38,
+     "success_rate": 0.567,
+     "avg_epa_or_yards": 0.56
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 42.64,
+     "intensity": 0.507,
+     "plays_count": 31,
+     "success_rate": 0.584,
+     "avg_epa_or_yards": 0.33
+    },
+    {
+     "x_bin": 70,
+     "y_bin": 47.97,
+     "intensity": 0.52,
+     "plays_count": 35,
+     "success_rate": 0.582,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 0.0,
+     "intensity": 0.549,
+     "plays_count": 36,
+     "success_rate": 0.576,
+     "avg_epa_or_yards": 0.41
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 5.33,
+     "intensity": 0.524,
+     "plays_count": 35,
+     "success_rate": 0.59,
+     "avg_epa_or_yards": 0.39
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 10.66,
+     "intensity": 0.593,
+     "plays_count": 38,
+     "success_rate": 0.63,
+     "avg_epa_or_yards": 0.49
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 15.99,
+     "intensity": 0.628,
+     "plays_count": 42,
+     "success_rate": 0.649,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 21.32,
+     "intensity": 0.642,
+     "plays_count": 41,
+     "success_rate": 0.558,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 26.65,
+     "intensity": 0.638,
+     "plays_count": 41,
+     "success_rate": 0.633,
+     "avg_epa_or_yards": 0.64
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 31.98,
+     "intensity": 0.633,
+     "plays_count": 41,
+     "success_rate": 0.644,
+     "avg_epa_or_yards": 0.6
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 37.31,
+     "intensity": 0.632,
+     "plays_count": 40,
+     "success_rate": 0.628,
+     "avg_epa_or_yards": 0.57
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 42.64,
+     "intensity": 0.582,
+     "plays_count": 37,
+     "success_rate": 0.61,
+     "avg_epa_or_yards": 0.59
+    },
+    {
+     "x_bin": 75,
+     "y_bin": 47.97,
+     "intensity": 0.526,
+     "plays_count": 33,
+     "success_rate": 0.528,
+     "avg_epa_or_yards": 0.47
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 0.0,
+     "intensity": 0.547,
+     "plays_count": 34,
+     "success_rate": 0.536,
+     "avg_epa_or_yards": 0.46
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 5.33,
+     "intensity": 0.585,
+     "plays_count": 37,
+     "success_rate": 0.577,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 10.66,
+     "intensity": 0.631,
+     "plays_count": 38,
+     "success_rate": 0.611,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 15.99,
+     "intensity": 0.648,
+     "plays_count": 40,
+     "success_rate": 0.63,
+     "avg_epa_or_yards": 0.51
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 21.32,
+     "intensity": 0.704,
+     "plays_count": 43,
+     "success_rate": 0.614,
+     "avg_epa_or_yards": 0.56
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 26.65,
+     "intensity": 0.718,
+     "plays_count": 47,
+     "success_rate": 0.649,
+     "avg_epa_or_yards": 0.69
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 31.98,
+     "intensity": 0.711,
+     "plays_count": 45,
+     "success_rate": 0.642,
+     "avg_epa_or_yards": 0.62
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 37.31,
+     "intensity": 0.672,
+     "plays_count": 43,
+     "success_rate": 0.601,
+     "avg_epa_or_yards": 0.55
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 42.64,
+     "intensity": 0.597,
+     "plays_count": 37,
+     "success_rate": 0.546,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 80,
+     "y_bin": 47.97,
+     "intensity": 0.513,
+     "plays_count": 32,
+     "success_rate": 0.559,
+     "avg_epa_or_yards": 0.33
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 0.0,
+     "intensity": 0.558,
+     "plays_count": 34,
+     "success_rate": 0.545,
+     "avg_epa_or_yards": 0.44
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 5.33,
+     "intensity": 0.628,
+     "plays_count": 39,
+     "success_rate": 0.573,
+     "avg_epa_or_yards": 0.6
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 10.66,
+     "intensity": 0.662,
+     "plays_count": 42,
+     "success_rate": 0.665,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 15.99,
+     "intensity": 0.708,
+     "plays_count": 46,
+     "success_rate": 0.584,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 21.32,
+     "intensity": 0.729,
+     "plays_count": 46,
+     "success_rate": 0.682,
+     "avg_epa_or_yards": 0.7
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 26.65,
+     "intensity": 0.737,
+     "plays_count": 47,
+     "success_rate": 0.691,
+     "avg_epa_or_yards": 0.72
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 31.98,
+     "intensity": 0.724,
+     "plays_count": 45,
+     "success_rate": 0.681,
+     "avg_epa_or_yards": 0.76
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 37.31,
+     "intensity": 0.638,
+     "plays_count": 40,
+     "success_rate": 0.609,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 42.64,
+     "intensity": 0.607,
+     "plays_count": 40,
+     "success_rate": 0.625,
+     "avg_epa_or_yards": 0.5
+    },
+    {
+     "x_bin": 85,
+     "y_bin": 47.97,
+     "intensity": 0.547,
+     "plays_count": 36,
+     "success_rate": 0.563,
+     "avg_epa_or_yards": 0.36
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 0.0,
+     "intensity": 0.614,
+     "plays_count": 40,
+     "success_rate": 0.565,
+     "avg_epa_or_yards": 0.54
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 5.33,
+     "intensity": 0.674,
+     "plays_count": 44,
+     "success_rate": 0.586,
+     "avg_epa_or_yards": 0.7
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 10.66,
+     "intensity": 0.675,
+     "plays_count": 43,
+     "success_rate": 0.571,
+     "avg_epa_or_yards": 0.52
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 15.99,
+     "intensity": 0.787,
+     "plays_count": 50,
+     "success_rate": 0.692,
+     "avg_epa_or_yards": 0.82
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 21.32,
+     "intensity": 0.767,
+     "plays_count": 48,
+     "success_rate": 0.617,
+     "avg_epa_or_yards": 0.73
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 26.65,
+     "intensity": 0.759,
+     "plays_count": 48,
+     "success_rate": 0.701,
+     "avg_epa_or_yards": 0.77
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 31.98,
+     "intensity": 0.775,
+     "plays_count": 49,
+     "success_rate": 0.704,
+     "avg_epa_or_yards": 0.78
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 37.31,
+     "intensity": 0.746,
+     "plays_count": 45,
+     "success_rate": 0.644,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 42.64,
+     "intensity": 0.691,
+     "plays_count": 42,
+     "success_rate": 0.582,
+     "avg_epa_or_yards": 0.69
+    },
+    {
+     "x_bin": 90,
+     "y_bin": 47.97,
+     "intensity": 0.567,
+     "plays_count": 36,
+     "success_rate": 0.584,
+     "avg_epa_or_yards": 0.43
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 0.0,
+     "intensity": 0.661,
+     "plays_count": 41,
+     "success_rate": 0.603,
+     "avg_epa_or_yards": 0.62
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 5.33,
+     "intensity": 0.677,
+     "plays_count": 42,
+     "success_rate": 0.573,
+     "avg_epa_or_yards": 0.65
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 10.66,
+     "intensity": 0.732,
+     "plays_count": 46,
+     "success_rate": 0.657,
+     "avg_epa_or_yards": 0.7
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 15.99,
+     "intensity": 0.796,
+     "plays_count": 51,
+     "success_rate": 0.677,
+     "avg_epa_or_yards": 0.79
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 21.32,
+     "intensity": 0.838,
+     "plays_count": 51,
+     "success_rate": 0.728,
+     "avg_epa_or_yards": 0.73
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 26.65,
+     "intensity": 0.79,
+     "plays_count": 51,
+     "success_rate": 0.646,
+     "avg_epa_or_yards": 0.67
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 31.98,
+     "intensity": 0.826,
+     "plays_count": 53,
+     "success_rate": 0.674,
+     "avg_epa_or_yards": 0.77
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 37.31,
+     "intensity": 0.721,
+     "plays_count": 46,
+     "success_rate": 0.636,
+     "avg_epa_or_yards": 0.67
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 42.64,
+     "intensity": 0.731,
+     "plays_count": 44,
+     "success_rate": 0.631,
+     "avg_epa_or_yards": 0.74
+    },
+    {
+     "x_bin": 95,
+     "y_bin": 47.97,
+     "intensity": 0.631,
+     "plays_count": 40,
+     "success_rate": 0.649,
+     "avg_epa_or_yards": 0.49
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 0.0,
+     "intensity": 0.693,
+     "plays_count": 44,
+     "success_rate": 0.668,
+     "avg_epa_or_yards": 0.69
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 5.33,
+     "intensity": 0.709,
+     "plays_count": 45,
+     "success_rate": 0.621,
+     "avg_epa_or_yards": 0.74
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 10.66,
+     "intensity": 0.781,
+     "plays_count": 49,
+     "success_rate": 0.668,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 15.99,
+     "intensity": 0.849,
+     "plays_count": 51,
+     "success_rate": 0.699,
+     "avg_epa_or_yards": 0.83
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 21.32,
+     "intensity": 0.84,
+     "plays_count": 54,
+     "success_rate": 0.667,
+     "avg_epa_or_yards": 0.86
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 26.65,
+     "intensity": 0.842,
+     "plays_count": 54,
+     "success_rate": 0.671,
+     "avg_epa_or_yards": 0.79
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 31.98,
+     "intensity": 0.863,
+     "plays_count": 54,
+     "success_rate": 0.697,
+     "avg_epa_or_yards": 0.77
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 37.31,
+     "intensity": 0.807,
+     "plays_count": 49,
+     "success_rate": 0.706,
+     "avg_epa_or_yards": 0.71
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 42.64,
+     "intensity": 0.748,
+     "plays_count": 46,
+     "success_rate": 0.679,
+     "avg_epa_or_yards": 0.77
+    },
+    {
+     "x_bin": 100,
+     "y_bin": 47.97,
+     "intensity": 0.696,
+     "plays_count": 45,
+     "success_rate": 0.672,
+     "avg_epa_or_yards": 0.73
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 0.0,
+     "intensity": 0.723,
+     "plays_count": 45,
+     "success_rate": 0.644,
+     "avg_epa_or_yards": 0.63
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 5.33,
+     "intensity": 0.763,
+     "plays_count": 46,
+     "success_rate": 0.615,
+     "avg_epa_or_yards": 0.76
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 10.66,
+     "intensity": 0.799,
+     "plays_count": 50,
+     "success_rate": 0.653,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 15.99,
+     "intensity": 0.864,
+     "plays_count": 54,
+     "success_rate": 0.655,
+     "avg_epa_or_yards": 0.86
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 21.32,
+     "intensity": 0.909,
+     "plays_count": 58,
+     "success_rate": 0.695,
+     "avg_epa_or_yards": 0.88
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 26.65,
+     "intensity": 0.879,
+     "plays_count": 55,
+     "success_rate": 0.682,
+     "avg_epa_or_yards": 0.87
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 31.98,
+     "intensity": 0.907,
+     "plays_count": 57,
+     "success_rate": 0.699,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 37.31,
+     "intensity": 0.857,
+     "plays_count": 53,
+     "success_rate": 0.643,
+     "avg_epa_or_yards": 0.78
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 42.64,
+     "intensity": 0.724,
+     "plays_count": 44,
+     "success_rate": 0.664,
+     "avg_epa_or_yards": 0.66
+    },
+    {
+     "x_bin": 105,
+     "y_bin": 47.97,
+     "intensity": 0.673,
+     "plays_count": 44,
+     "success_rate": 0.583,
+     "avg_epa_or_yards": 0.65
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 0.0,
+     "intensity": 0.756,
+     "plays_count": 49,
+     "success_rate": 0.649,
+     "avg_epa_or_yards": 0.68
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 5.33,
+     "intensity": 0.824,
+     "plays_count": 51,
+     "success_rate": 0.685,
+     "avg_epa_or_yards": 0.72
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 10.66,
+     "intensity": 0.845,
+     "plays_count": 53,
+     "success_rate": 0.722,
+     "avg_epa_or_yards": 0.89
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 15.99,
+     "intensity": 0.917,
+     "plays_count": 56,
+     "success_rate": 0.721,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 21.32,
+     "intensity": 0.985,
+     "plays_count": 63,
+     "success_rate": 0.702,
+     "avg_epa_or_yards": 0.9
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 26.65,
+     "intensity": 0.968,
+     "plays_count": 58,
+     "success_rate": 0.738,
+     "avg_epa_or_yards": 0.87
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 31.98,
+     "intensity": 0.902,
+     "plays_count": 56,
+     "success_rate": 0.701,
+     "avg_epa_or_yards": 0.9
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 37.31,
+     "intensity": 0.891,
+     "plays_count": 57,
+     "success_rate": 0.712,
+     "avg_epa_or_yards": 0.88
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 42.64,
+     "intensity": 0.798,
+     "plays_count": 52,
+     "success_rate": 0.666,
+     "avg_epa_or_yards": 0.81
+    },
+    {
+     "x_bin": 110,
+     "y_bin": 47.97,
+     "intensity": 0.74,
+     "plays_count": 46,
+     "success_rate": 0.618,
+     "avg_epa_or_yards": 0.74
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 0.0,
+     "intensity": 0.731,
+     "plays_count": 47,
+     "success_rate": 0.621,
+     "avg_epa_or_yards": 0.67
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 5.33,
+     "intensity": 0.795,
+     "plays_count": 50,
+     "success_rate": 0.658,
+     "avg_epa_or_yards": 0.75
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 10.66,
+     "intensity": 0.894,
+     "plays_count": 56,
+     "success_rate": 0.742,
+     "avg_epa_or_yards": 0.93
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 15.99,
+     "intensity": 0.97,
+     "plays_count": 61,
+     "success_rate": 0.705,
+     "avg_epa_or_yards": 0.97
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 21.32,
+     "intensity": 0.97,
+     "plays_count": 60,
+     "success_rate": 0.706,
+     "avg_epa_or_yards": 1.05
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 26.65,
+     "intensity": 1.0,
+     "plays_count": 63,
+     "success_rate": 0.797,
+     "avg_epa_or_yards": 1.05
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 31.98,
+     "intensity": 0.97,
+     "plays_count": 60,
+     "success_rate": 0.724,
+     "avg_epa_or_yards": 0.91
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 37.31,
+     "intensity": 0.892,
+     "plays_count": 55,
+     "success_rate": 0.663,
+     "avg_epa_or_yards": 0.84
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 42.64,
+     "intensity": 0.806,
+     "plays_count": 49,
+     "success_rate": 0.643,
+     "avg_epa_or_yards": 0.85
+    },
+    {
+     "x_bin": 115,
+     "y_bin": 47.97,
+     "intensity": 0.793,
+     "plays_count": 49,
+     "success_rate": 0.664,
+     "avg_epa_or_yards": 0.74
+    }
+   ],
+   "top_players": [
+    {
+     "nflId": 40300,
+     "name": "Dan Foster",
+     "position": "QB",
+     "metric_value": 30.02,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40301,
+     "name": "Greg Mills",
+     "position": "WR",
+     "metric_value": 29.39,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40302,
+     "name": "Jack Underwood",
+     "position": "TE",
+     "metric_value": 27.96,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40303,
+     "name": "Matt Grant",
+     "position": "RB",
+     "metric_value": 27.05,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40304,
+     "name": "Paul Nolan",
+     "position": "CB",
+     "metric_value": 25.86,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40305,
+     "name": "Sam Vance",
+     "position": "S",
+     "metric_value": 24.91,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40306,
+     "name": "Will Hayes",
+     "position": "QB",
+     "metric_value": 23.82,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40307,
+     "name": "Chris Ortiz",
+     "position": "WR",
+     "metric_value": 22.43,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40308,
+     "name": "Frank Wood",
+     "position": "TE",
+     "metric_value": 21.47,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40309,
+     "name": "Ian Irwin",
+     "position": "RB",
+     "metric_value": 20.19,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40310,
+     "name": "Luke Price",
+     "position": "CB",
+     "metric_value": 19.33,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40311,
+     "name": "Owen Carter",
+     "position": "S",
+     "metric_value": 18.08,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40312,
+     "name": "Ryan Jones",
+     "position": "QB",
+     "metric_value": 17.13,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40313,
+     "name": "Vic Reed",
+     "position": "WR",
+     "metric_value": 16.12,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40314,
+     "name": "Ben Davis",
+     "position": "TE",
+     "metric_value": 14.86,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40315,
+     "name": "Eli Keller",
+     "position": "RB",
+     "metric_value": 13.69,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40316,
+     "name": "Hank Stone",
+     "position": "CB",
+     "metric_value": 12.85,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40317,
+     "name": "Kyle Evans",
+     "position": "S",
+     "metric_value": 11.56,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40318,
+     "name": "Nate Lopez",
+     "position": "QB",
+     "metric_value": 10.38,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40319,
+     "name": "Quinn Turner",
+     "position": "WR",
+     "metric_value": 9.53,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40320,
+     "name": "Tom Foster",
+     "position": "TE",
+     "metric_value": 8.24,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40321,
+     "name": "Alex Mills",
+     "position": "RB",
+     "metric_value": 7.14,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40322,
+     "name": "Dan Underwood",
+     "position": "CB",
+     "metric_value": 6.1,
+     "metric_label": "Separación (yd)"
+    },
+    {
+     "nflId": 40323,
+     "name": "Greg Grant",
+     "position": "S",
+     "metric_value": 4.95,
+     "metric_label": "Separación (yd)"
+    }
+   ],
+   "yards_by_down": [
+    {
+     "down": 1,
+     "avg_yards": 7.2
+    },
+    {
+     "down": 2,
+     "avg_yards": 6.3
+    },
+    {
+     "down": 3,
+     "avg_yards": 5.4
+    },
+    {
+     "down": 4,
+     "avg_yards": 4.5
+    }
+   ]
+  }
+ }
+}
