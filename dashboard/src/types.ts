@@ -1,9 +1,12 @@
 export type Layer = 'targets' | 'routes' | 'pocket_pressure' | 'separation'
 export type PassResult = 'C' | 'I' | 'S' | 'R' | 'IN'
 export type Down = '1st' | '2nd' | '3rd' | '4th'
-export type Formation = 'SHOTGUN' | 'EMPTY' | 'SINGLEBACK' | 'I_FORM'
-export type Coverage = 'Cover-1' | 'Cover-2' | 'Cover-3' | 'Quarters' | 'Man vs Zone'
-export type Position = 'QB' | 'WR' | 'TE' | 'RB' | 'CB' | 'S'
+export type Formation = 'SHOTGUN' | 'EMPTY' | 'SINGLEBACK' | 'I_FORM' | 'PISTOL' | 'JUMBO' | 'WILDCAT'
+export type Coverage =
+  | 'Cover-0' | 'Cover-1' | 'Cover-2' | 'Cover-3' | 'Cover-6' | 'Quarters' | '2-Man' | 'Bracket'
+  | 'Goal Line' | 'Prevent' | 'Red Zone' | 'Miscellaneous'
+/** Posiciones oficiales (players.csv); se admite cualquier texto. */
+export type Position = string
 export type Perspective = 'coach' | 'scout' | 'broadcaster'
 
 /** Arreglo vacío = sin selección = todas las opciones. */

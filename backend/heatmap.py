@@ -35,20 +35,29 @@ def num(v, nd: int = 1) -> float:
     return round(f, nd)
 
 
+def _as_list(v):
+    """Acepta un valor o una lista (el dashboard envia listas separadas por coma)."""
+    if v is None:
+        return None
+    return list(v) if isinstance(v, (list, tuple, set)) else [v]
+
+
 def build_mask(plays: pd.DataFrame, team=None, down=None, formation=None,
                coverage=None, pass_result=None) -> np.ndarray:
-    """Mascara booleana (AND) con igualdad exacta y sensible a mayusculas."""
+    """Mascara booleana (AND) con igualdad exacta y sensible a mayusculas.
+
+    Cada filtro admite un valor o una lista de valores (OR dentro del filtro)."""
     mask = np.ones(len(plays), dtype=bool)
     if team is not None:
-        mask &= (plays["possessionTeam"] == team).fillna(False).to_numpy(dtype=bool)
+        mask &= plays["possessionTeam"].isin(_as_list(team)).to_numpy(dtype=bool)
     if down is not None:
-        mask &= (plays["down"] == int(down)).fillna(False).to_numpy(dtype=bool)
+        mask &= plays["down"].isin([int(d) for d in _as_list(down)]).to_numpy(dtype=bool)
     if formation is not None:
-        mask &= (plays["offenseFormation"] == formation).fillna(False).to_numpy(dtype=bool)
+        mask &= plays["offenseFormation"].isin(_as_list(formation)).to_numpy(dtype=bool)
     if coverage is not None:
-        mask &= (plays["pff_passCoverage"] == coverage).fillna(False).to_numpy(dtype=bool)
+        mask &= plays["pff_passCoverage"].isin(_as_list(coverage)).to_numpy(dtype=bool)
     if pass_result is not None:
-        mask &= (plays["passResult"] == pass_result).fillna(False).to_numpy(dtype=bool)
+        mask &= plays["passResult"].isin(_as_list(pass_result)).to_numpy(dtype=bool)
     return mask
 
 

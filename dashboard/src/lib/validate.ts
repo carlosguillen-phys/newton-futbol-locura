@@ -14,9 +14,7 @@ const META_KEYS = [
   'sack_rate',
   'avg_time_to_throw',
 ] as const
-const POSITIONS = ['QB', 'WR', 'TE', 'RB', 'CB', 'S'] as const
 const EXPECTED_CELLS = 240
-const MIN_PLAYERS = 10
 const MAX_PLAYERS = 50
 
 const round2 = (n: number): number => Math.round(n * 100) / 100
@@ -110,8 +108,8 @@ export function validateHeatmapResponse(x: unknown, layerLabel?: Layer): Contrac
     err('top_players', 'top_players ausente o no es un arreglo')
   } else {
     const players: unknown[] = x.top_players
-    if (players.length < MIN_PLAYERS || players.length > MAX_PLAYERS) {
-      err('top_players', `se esperaban entre ${MIN_PLAYERS} y ${MAX_PLAYERS} jugadores y hay ${players.length}`)
+    if (players.length > MAX_PLAYERS) {
+      err('top_players', `se esperaban como máximo ${MAX_PLAYERS} jugadores y hay ${players.length}`)
     }
     const found = new Set<string>()
     players.forEach((pl, i) => {
@@ -124,14 +122,10 @@ export function validateHeatmapResponse(x: unknown, layerLabel?: Layer): Contrac
       if (typeof pl.name !== 'string') err(`${p}.name`, 'name ausente o no es texto')
       if (typeof pl.metric_label !== 'string') err(`${p}.metric_label`, 'metric_label ausente o no es texto')
       if (!isNum(pl.metric_value)) err(`${p}.metric_value`, 'metric_value ausente o no es un número finito')
-      if (typeof pl.position !== 'string' || !(POSITIONS as readonly string[]).includes(pl.position)) {
+      if (typeof pl.position !== 'string') {
         err(`${p}.position`, `position inválida: ${String(pl.position)}`)
       } else found.add(pl.position)
     })
-    const missing = POSITIONS.filter((pos) => !found.has(pos))
-    if (missing.length > 0) {
-      err('top_players', `faltan posiciones: ${missing.join(', ')}`)
-    }
   }
 
   return errors

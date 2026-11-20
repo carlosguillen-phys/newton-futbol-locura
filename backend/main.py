@@ -133,17 +133,20 @@ def heatmap(
 ):
     if layer not in LAYERS:
         return _422("layer must be one of: " + ", ".join(LAYERS))
-    down_i = None
-    if down is not None:
-        if down not in ("1", "2", "3", "4"):
-            return _422("down must be an integer from 1 to 4")
-        down_i = int(down)
-    if pass_result is not None and pass_result not in PASS_RESULTS:
+    def _split(v):
+        return None if v is None else [p for p in v.split(",") if p != ""] or None
+
+    down_l = _split(down)
+    if down_l is not None and any(d not in ("1", "2", "3", "4") for d in down_l):
+        return _422("down must be an integer from 1 to 4")
+    result_l = _split(pass_result)
+    if result_l is not None and any(r not in PASS_RESULTS for r in result_l):
         return _422("pass_result must be one of: " + ", ".join(PASS_RESULTS))
     store = _ready_store(holder)
     if store is None:
         return _unavailable(holder)
-    mask = build_mask(store.tables["plays"], team, down_i, formation, coverage, pass_result)
+    mask = build_mask(store.tables["plays"], _split(team), down_l, _split(formation),
+                      _split(coverage), result_l)
     return compute_heatmap(store, layer, mask)
 
 
