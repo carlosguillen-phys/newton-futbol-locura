@@ -1,0 +1,428 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Configurar Vite, scripts y `.gitignore`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194118822
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194128438
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194335563
+      }
+    ],
+    "1.2 Crear tipos, textos en español, capas y opciones de filtros": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194120449
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194128819
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194336387
+      }
+    ],
+    "1.3 Crear PRNG y base del script de verificación": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194120740
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194341575
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194496698
+      }
+    ],
+    "2.1 Implementar la escala de color (`src/lib/color.ts`)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194120978
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194342578
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194497288
+      }
+    ],
+    "2.4 Implementar la geometría del campo (`src/lib/fieldGeometry.ts`)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194121137
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194343478
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194497542
+      }
+    ],
+    "2.7 Implementar tooltip y formato (`src/lib/tooltip.ts`, `src/lib/format.ts`)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194121313
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194344132
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194497854
+      }
+    ],
+    "2.12 Implementar perspectivas (`src/lib/insights.ts`, `src/lib/players.ts`)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194121553
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194500552
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194679676
+      }
+    ],
+    "3.1 Implementar el validador (`src/lib/validate.ts`)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194121756
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194501590
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194679116
+      }
+    ],
+    "3.3 Crear `src/mocks/heatmapMock.json`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194121960
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194684391
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194925259
+      }
+    ],
+    "3.4 Implementar el motor de mocks (`src/mocks/mockEngine.ts`)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194122097
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194927934
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195185239
+      }
+    ],
+    "4.1 Implementar `src/services/api.ts`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194122235
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195188479
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195477913
+      }
+    ],
+    "5.1 Implementar el reductor (`src/state/dashboardReducer.ts`)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194122373
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195480695
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195694803
+      }
+    ],
+    "5.3 Implementar el hook `src/state/useDashboard.ts`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194122518
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195695454
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195840778
+      }
+    ],
+    "6. Checkpoint - Verificar lógica y datos": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194122655
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195844459
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195997635
+      }
+    ],
+    "7.1 Crear `FieldMarkings`, `ColorLegend` y `HeatCells`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194122861
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196000549
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196211569
+      }
+    ],
+    "7.2 Crear `CellTooltip` y `FootballFieldHeatmap`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194123033
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196218365
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196310668
+      }
+    ],
+    "7.3 Crear `FilterPanel` y `LayerSelector`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194123183
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196001345
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196212683
+      }
+    ],
+    "7.4 Crear `KpiCards` y `DownYardsChart`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194123306
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196002410
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196213750
+      }
+    ],
+    "7.5 Crear `CoachView`, `ScoutView`, `BroadcasterView` y `PerspectiveTabs`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194123436
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196003517
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196214815
+      }
+    ],
+    "7.6 Crear `MockBadge`, `ErrorBanner` y `LoadingOverlay`": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194123566
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196004551
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196215631
+      }
+    ],
+    "8.1 Cablear `App.tsx`, `main.tsx`, `index.css` y Tailwind": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194123701
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196313692
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196395137
+      }
+    ],
+    "9. Checkpoint final - Build y desarrollo sin errores": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194123869
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196397899
+      },
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196678083
+      }
+    ],
+    "1. Configuración base y tipos compartidos": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194497045
+      }
+    ],
+    "2. Lógica pura de presentación": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795194679801
+      }
+    ],
+    "3. Validación del contrato y datos simulados": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195185524
+      }
+    ],
+    "4. Cliente de datos (Api_Client)": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195478308
+      }
+    ],
+    "5. Estado del dashboard": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795195841037
+      }
+    ],
+    "7. Componentes de interfaz": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196310910
+      }
+    ],
+    "8. Integración y cableado": [
+      {
+        "executionId": "c75d2659-26dc-4701-b8a2-4aecef641898",
+        "chatSessionId": "sess_1c9c9da5-ce7f-46e9-8b8c-63d01fd42c64",
+        "timestamp": 1795196395311
+      }
+    ]
+  }
+}
